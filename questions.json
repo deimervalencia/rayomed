@@ -7,7 +7,10 @@
       "hint": "Describir un caso real: actor, situación actual, pérdida y mejora esperada.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "Busca una necesidad observable de trabajo, no un eslogan del producto ni la elección prematura de un módulo.",
+      "example": "Hoy un profesional consulta tres herramientas para saber quién tiene cita, cuánto presupuestó y qué seguimiento falta.",
+      "expected": "Actividad afectada, usuario, dificultad actual y mejora concreta que se podría medir."
     },
     {
       "id": "Q002",
@@ -16,7 +19,10 @@
       "hint": "Elegir una opción y describir el producto a 12–24 meses.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "Distingue un CRM centrado en ventas y comunicación de un sistema que también administra la práctica clínica; la respuesta define decisiones técnicas y legales.",
+      "example": "Lanzar un piloto comercial ahora y estudiar la historia clínica como módulo posterior, sin asumir que ya forma parte del piloto.",
+      "expected": "Categoría principal, evolución prevista y frontera funcional de cada etapa."
     },
     {
       "id": "Q003",
@@ -25,7 +31,10 @@
       "hint": "Indicar cliente piloto principal y segmentos futuros.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "La primera especialidad condiciona formularios, agenda y ventas. «Todos los médicos» puede ser una meta, pero no especifica el piloto.",
+      "example": "Validar primero con un consultorio estético y planear odontología como segmento de expansión.",
+      "expected": "Especialidad y tamaño del primer cliente, necesidades distintivas y prioridades futuras."
     },
     {
       "id": "Q004",
@@ -34,7 +43,10 @@
       "hint": "Separar imprescindible de deseable y futuro.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "Requiere escoger el conjunto mínimo que demuestra valor y puede probarse con usuarios reales, sin meter toda la visión en el MVP.",
+      "example": "Lead recibido, contacto gestionado, cita creada, cotización enviada y seguimiento registrado.",
+      "expected": "Lista ordenada de cinco capacidades, alcance exacto y criterios de aceptación."
     },
     {
       "id": "Q005",
@@ -43,7 +55,10 @@
       "hint": "Ejemplos: historia clínica propia, teleconsulta, pagos, campañas, RIPS.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "El objetivo es prevenir malentendidos contractuales, incluyendo funciones relacionadas pero aún no aprobadas.",
+      "example": "Se usarán enlaces al sistema clínico actual; no se implementará historia clínica interna en el piloto.",
+      "expected": "Exclusiones explícitas, dependencia de terceros y fase posible de reconsideración."
     },
     {
       "id": "Q006",
@@ -52,7 +67,10 @@
       "hint": "Ejemplos a concretar: citas gestionadas, leads atendidos, tiempo ahorrado, cotizaciones aceptadas, tasa de ausencias.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "Un indicador debe tener definición, método de medición y meta; «más eficiencia» no es verificable.",
+      "example": "Disminuir el tiempo mediano de primera respuesta de 40 a 10 minutos.",
+      "expected": "Indicadores, línea base, meta, período de medición y responsable de validación."
     },
     {
       "id": "Q007",
@@ -61,7 +79,10 @@
       "hint": "Pedir una propuesta de valor en una frase y evidencia del dolor.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "Se contrasta el valor de tener procesos conectados con el costo de cambiar de herramientas; preguntar al cliente por qué pagaría realmente.",
+      "example": "El paciente confirma por WhatsApp y la agenda se actualiza sin duplicar registros manuales.",
+      "expected": "Beneficio diferencial, proceso que integra y evidencia de que vale pagar por él."
     },
     {
       "id": "Q008",
@@ -70,7 +91,10 @@
       "hint": "Confirmar Colombia, otros países e idiomas inicialmente soportados.",
       "sectionId": "01",
       "section": "Visión, posicionamiento y alcance del producto",
-      "stakeholder": "Dirección / patrocinador"
+      "stakeholder": "Dirección / patrocinador",
+      "clarification": "Marca, dominios y geografía influyen en comunicación, idiomas y requisitos locales; no se asume expansión internacional desde el primer día.",
+      "example": "Iniciar comercialmente en Colombia en español y dejar otros mercados para evaluación futura.",
+      "expected": "Marca oficial, dominios, países, idiomas y fechas por mercado."
     },
     {
       "id": "Q009",
@@ -79,7 +103,10 @@
       "hint": "Solicitar un responsable con autoridad para aprobar los criterios de aceptación.",
       "sectionId": "02",
       "section": "Cliente piloto y operación real",
-      "stakeholder": "Clínica piloto / administrador / recepción"
+      "stakeholder": "Clínica piloto / administrador / recepción",
+      "clarification": "No basta con tener una clínica interesada: se requieren personas reales que prueben y aprueben los procesos de cada rol.",
+      "example": "Una coordinadora valida recepción, un médico valida preconsulta y dirección aprueba el resultado final.",
+      "expected": "Organización piloto, contactos por área, disponibilidad de pruebas y autoridad de aprobación."
     },
     {
       "id": "Q010",
@@ -88,7 +115,10 @@
       "hint": "Registrar pasos, herramientas, capturas, personas y excepciones.",
       "sectionId": "02",
       "section": "Cliente piloto y operación real",
-      "stakeholder": "Clínica piloto / administrador / recepción"
+      "stakeholder": "Clínica piloto / administrador / recepción",
+      "clarification": "Debe documentarse el recorrido tal como ocurre ahora, incluidos pasos fuera del software y situaciones especiales.",
+      "example": "Un mensaje pasa de WhatsApp a una hoja de cálculo, luego a agenda, valoración y llamada de seguimiento.",
+      "expected": "Diagrama real con eventos, sistemas, tiempos, datos, actores y excepciones."
     },
     {
       "id": "Q011",
@@ -97,7 +127,10 @@
       "hint": "Cifras estimadas actuales y a 12 meses.",
       "sectionId": "02",
       "section": "Cliente piloto y operación real",
-      "stakeholder": "Clínica piloto / administrador / recepción"
+      "stakeholder": "Clínica piloto / administrador / recepción",
+      "clarification": "Se piden cantidades para diseñar permisos, capacidad y costos; diferencie personas de agendas, sedes y cuentas.",
+      "example": "Cinco médicos, dos sedes, ocho agentes y doce agendas; el número de usuarios puede ser mayor que el de profesionales.",
+      "expected": "Cantidades actuales, concurrencia estimada y crecimiento esperado a 12 meses."
     },
     {
       "id": "Q012",
@@ -106,7 +139,10 @@
       "hint": "Cuantificar costos, duplicidades o tiempos si es posible.",
       "sectionId": "02",
       "section": "Cliente piloto y operación real",
-      "stakeholder": "Clínica piloto / administrador / recepción"
+      "stakeholder": "Clínica piloto / administrador / recepción",
+      "clarification": "Son problemas prioritarios de operación, no una lista genérica de molestias tecnológicas.",
+      "example": "Pérdida de solicitudes por falta de respuesta, reservas duplicadas y presupuestos sin seguimiento.",
+      "expected": "Tres problemas, frecuencia, costo o demora y persona afectada."
     },
     {
       "id": "Q013",
@@ -115,7 +151,10 @@
       "hint": "Registrar excepciones y configuración por cliente.",
       "sectionId": "02",
       "section": "Cliente piloto y operación real",
-      "stakeholder": "Clínica piloto / administrador / recepción"
+      "stakeholder": "Clínica piloto / administrador / recepción",
+      "clarification": "La misma plataforma puede necesitar reglas distintas según procedimiento, especialidad o sede sin duplicar el producto.",
+      "example": "Una valoración dura 20 minutos en una especialidad y 45 en otra; una sede exige sala específica.",
+      "expected": "Variaciones por área y sede, reglas compartidas y configuraciones particulares."
     },
     {
       "id": "Q014",
@@ -124,7 +163,10 @@
       "hint": "Solicitar inventario de proveedores, planes, accesos de pruebas y propietarios.",
       "sectionId": "02",
       "section": "Cliente piloto y operación real",
-      "stakeholder": "Clínica piloto / administrador / recepción"
+      "stakeholder": "Clínica piloto / administrador / recepción",
+      "clarification": "Inventariar sistemas evita diseñar integraciones imaginarias y distingue reemplazo de interoperabilidad obligatoria.",
+      "example": "Vtiger para contactos, Google para citas y un programa de facturación que debe mantenerse.",
+      "expected": "Nombre, versión, proveedor, objetivo, obligatoriedad, API disponible y responsable técnico."
     },
     {
       "id": "Q015",
@@ -133,7 +175,10 @@
       "hint": "Definir jerarquía: organización > sede > profesional > usuario.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "Define qué es un cliente/tenant y dónde se agrupan sedes, personal, datos y facturación de la suscripción.",
+      "example": "Una clínica con tres sedes administra a varios médicos, pero otra cuenta es un profesional independiente.",
+      "expected": "Jerarquía de entidades, titular del contrato y límites de aislamiento entre organizaciones."
     },
     {
       "id": "Q016",
@@ -142,7 +187,10 @@
       "hint": "Explicar cambio de contexto, permisos y propiedad de datos.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "Distingue identidad del usuario de su relación con una organización para evitar cuentas duplicadas o filtraciones entre clínicas.",
+      "example": "La misma doctora atiende los lunes en una clínica y los jueves en otra, con permisos distintos.",
+      "expected": "Si se permite, cómo cambia de clínica y qué datos puede consultar en cada contexto."
     },
     {
       "id": "Q017",
@@ -151,7 +199,10 @@
       "hint": "Definir conservación, exportación y transferencias autorizadas.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "La pregunta trata de titularidad, portabilidad y continuidad del servicio, no solo del botón «eliminar usuario».",
+      "example": "Cuando un médico se retira, sus citas históricas siguen siendo accesibles para la clínica según permisos y obligaciones aplicables.",
+      "expected": "Regla de conservación, acceso posterior, exportación y aprobación de transferencias."
     },
     {
       "id": "Q018",
@@ -160,7 +211,10 @@
       "hint": "Usar matriz CRUD y separar datos comerciales de sensibles.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "Los roles determinan qué información puede verse y qué acciones se pueden realizar; «acceso completo» debe justificarse.",
+      "example": "Recepción crea citas, comercial gestiona oportunidades y médico revisa información clínica autorizada.",
+      "expected": "Matriz por rol y función: ver, crear, editar, cancelar, exportar y administrar."
     },
     {
       "id": "Q019",
@@ -169,7 +223,10 @@
       "hint": "Determinar registro, autenticación, portal y acciones disponibles.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "Tener un enlace a un formulario no equivale a ofrecer un portal de pacientes con cuenta y autenticación.",
+      "example": "El paciente completa una preconsulta mediante enlace temporal sin contraseña, si así se aprueba.",
+      "expected": "Necesidad de cuenta, acciones del paciente, identidad, expiración y recuperación de acceso."
     },
     {
       "id": "Q020",
@@ -178,7 +235,10 @@
       "hint": "Definir facultades limitadas, acceso soporte auditado y consentimiento.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "El operador del SaaS necesita administrar clientes, pero eso no le concede acceso indiscriminado a sus datos clínicos.",
+      "example": "Soporte ve estado de integraciones; acceder a un expediente requiere autorización especial y auditoría.",
+      "expected": "Funciones de superadministración, límites, acceso excepcional y trazabilidad."
     },
     {
       "id": "Q021",
@@ -187,7 +247,10 @@
       "hint": "Definir invitación, aprovisionamiento, recuperación y bajas.",
       "sectionId": "03",
       "section": "Actores, roles y organización multi-cliente",
-      "stakeholder": "Dirección / operaciones / TI"
+      "stakeholder": "Dirección / operaciones / TI",
+      "clarification": "El ciclo de vida del cliente y de cada usuario afecta seguridad y facturación, especialmente al suspender sin borrar datos.",
+      "example": "Un administrador invita a recepción por correo y luego revoca su acceso al terminar el contrato laboral.",
+      "expected": "Alta, invitación, activación, suspensión, recuperación, cierre y conservación de datos."
     },
     {
       "id": "Q022",
@@ -196,7 +259,10 @@
       "hint": "Construir un glosario y reglas de conversión.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "Estos términos representan estados o entidades distintas: un interesado no es automáticamente un paciente atendido.",
+      "example": "Una persona pregunta precios (lead), reserva (cita) y solo después recibe atención (episodio).",
+      "expected": "Glosario del negocio y reglas para crear, vincular y transformar registros."
     },
     {
       "id": "Q023",
@@ -205,7 +271,10 @@
       "hint": "Definir deduplicación: documento, teléfono, correo e intervención humana.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "Evitar duplicados es distinto de fusionar automáticamente dos personas que parecen coincidir.",
+      "example": "Un paciente escribe desde el número de un familiar y el sistema pide confirmación antes de asociarlo.",
+      "expected": "Criterios de coincidencia, revisión manual, fusionado, historial y prevención de errores."
     },
     {
       "id": "Q024",
@@ -214,7 +283,10 @@
       "hint": "Identificar responsables, estados, eventos y datos mínimos.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "Se busca definir un proceso reproducible con estados verificables, no únicamente una vista tipo Kanban.",
+      "example": "Interesado nuevo → contactado → valorado → cotización → cita → atendido, con variaciones reales.",
+      "expected": "Etapas, responsables, eventos que cambian estado, datos mínimos y excepciones."
     },
     {
       "id": "Q025",
@@ -223,7 +295,10 @@
       "hint": "Definir relaciones uno-a-muchos y consultas históricas.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "Una persona puede recibir varios presupuestos y procedimientos a lo largo del tiempo; no debe perderse el historial.",
+      "example": "Un paciente solicita odontología y más tarde una valoración estética, cada una con su cotización.",
+      "expected": "Relaciones entre paciente, oportunidad, procedimiento y propuesta; histórico visible."
     },
     {
       "id": "Q026",
@@ -232,7 +307,10 @@
       "hint": "Clasificar origen, consentimiento y trazabilidad.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "La procedencia del contacto ayuda a medir campañas y obtener permisos de contacto; los canales no tienen las mismas reglas.",
+      "example": "Un lead llega por formulario web, otro por WhatsApp y otro por recomendación manual.",
+      "expected": "Canales, datos de origen, consentimiento, responsable y forma de importar registros."
     },
     {
       "id": "Q027",
@@ -241,7 +319,10 @@
       "hint": "Pedir lista real, criterios de entrada/salida y estados terminales.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "El pipeline es la secuencia de estados del negocio; algunos pueden ser estándar y otros propios de una especialidad.",
+      "example": "Una clínica usa «requiere valoración», mientras otra incorpora «pendiente exámenes».",
+      "expected": "Estados base, estados configurables, condiciones para avanzar y cerrar cada etapa."
     },
     {
       "id": "Q028",
@@ -250,7 +331,10 @@
       "hint": "Ejemplos: pasar a tratado, cerrar negocio, revelar información.",
       "sectionId": "04",
       "section": "Identidad del paciente, CRM y ciclo comercial",
-      "stakeholder": "Comercial / recepción / profesional"
+      "stakeholder": "Comercial / recepción / profesional",
+      "clarification": "No toda transición de un contacto debe ejecutar acciones irreversibles o sensibles sin revisión.",
+      "example": "Un bot nunca marca «procedimiento realizado» solo porque el paciente escribe «listo».",
+      "expected": "Lista de acciones restringidas, aprobador, evidencia y registro de cambios."
     },
     {
       "id": "Q029",
@@ -259,7 +343,10 @@
       "hint": "Resolver propiedad del dato y comportamiento con agenda externa.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Aclara dónde reside la agenda oficial y si editar en RayoMed modifica el calendario externo; no confundir interfaz con fuente de datos.",
+      "example": "Recepción agenda en RayoMed, que confirma con Google antes de mostrar la reserva como definitiva.",
+      "expected": "Fuente de verdad, acciones permitidas en cada sistema y modelo de sincronización."
     },
     {
       "id": "Q030",
@@ -268,7 +355,10 @@
       "hint": "Acordar reserva provisional, bloqueo, conflicto y rechazo.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Se evalúa una condición de concurrencia: dos solicitudes simultáneas para el mismo espacio no deben crear citas superpuestas.",
+      "example": "Un bot y recepción eligen las 10:00; uno confirma y el otro recibe una alternativa válida.",
+      "expected": "Regla de bloqueo, tiempo de reserva provisional, prioridad y mensaje ante conflicto."
     },
     {
       "id": "Q031",
@@ -277,7 +367,10 @@
       "hint": "Ejemplos: valoración, control, cirugía, teleconsulta, seguimiento.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Las citas pueden reservar tiempos y recursos distintos; un nombre de cita por sí solo no define la agenda.",
+      "example": "Control de 15 minutos presencial; valoración inicial de 45 con consultorio y médico.",
+      "expected": "Tipos, duraciones, modalidad, preparación, límites y recursos requeridos."
     },
     {
       "id": "Q032",
@@ -286,7 +379,10 @@
       "hint": "Pedir escenarios pacientes/recepción/chatbot/médico.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Identifica permisos y políticas diferentes para pacientes, recepción, médicos y automatizaciones, incluidos plazos.",
+      "example": "El paciente cancela hasta X horas antes; recepción puede corregir una cita con motivo registrado.",
+      "expected": "Matriz de acciones por actor, ventanas temporales y notificaciones posteriores."
     },
     {
       "id": "Q033",
@@ -295,7 +391,10 @@
       "hint": "Definir sincronización, conciliación, reintentos y avisos.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Una integración puede fallar o recibir cambios hechos fuera de RayoMed; hay que definir qué verá el usuario durante ese intervalo.",
+      "example": "Google no responde al guardar: la solicitud aparece «pendiente de confirmación», no como cita definitiva.",
+      "expected": "Política ante caída, quién reconcilia cambios, reintentos y comunicación al paciente."
     },
     {
       "id": "Q034",
@@ -304,7 +403,10 @@
       "hint": "Ejemplo: consultorio y médico deben estar libres simultáneamente.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Una hora libre del profesional puede no bastar si se necesita sala, equipo u otro recurso compartido.",
+      "example": "Cirugía exige médico y quirófano simultáneamente; valoración solo médico y consultorio.",
+      "expected": "Inventario de recursos, reglas de disponibilidad y validación de reservas conjuntas."
     },
     {
       "id": "Q035",
@@ -313,7 +415,10 @@
       "hint": "Definir calendario base, excepciones, país y huso horario.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Horarios por sede, vacaciones y husos horarios requieren reglas explícitas para no confirmar citas en momentos incorrectos.",
+      "example": "El médico bloquea días de congreso y una sede no atiende festivos locales.",
+      "expected": "Calendarios, excepciones, zona horaria de registro/visualización y responsables de bloqueos."
     },
     {
       "id": "Q036",
@@ -322,7 +427,10 @@
       "hint": "Diferenciar llegó, esperando, en consulta, finalizó y no asistió.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "«Check-in» puede significar llegada del paciente, comienzo de consulta o progreso comercial; esos estados no son intercambiables.",
+      "example": "Paciente llegó a las 9:00, espera 10 minutos y después entra a valoración; no implica diagnóstico.",
+      "expected": "Estados operativos, definición de cada uno, quién los modifica y consecuencias del cambio."
     },
     {
       "id": "Q037",
@@ -331,7 +439,10 @@
       "hint": "Determinar idempotencia y regla de reconciliación.",
       "sectionId": "05",
       "section": "Agenda, disponibilidad, citas y check-in",
-      "stakeholder": "Recepción / profesional / coordinación"
+      "stakeholder": "Recepción / profesional / coordinación",
+      "clarification": "Webhooks repetidos o fuera de secuencia pueden revertir una cita más reciente si no se acuerda cómo procesarlos.",
+      "example": "Llega dos veces «confirmada» después de «cancelada»; debe conservarse el estado válido más actual.",
+      "expected": "Claves de evento, orden/prioridad, reintento y pruebas contra duplicaciones."
     },
     {
       "id": "Q038",
@@ -340,7 +451,10 @@
       "hint": "Resolver la clasificación funcional, acceso y obligaciones aplicables.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "Un formulario previo puede ser un instrumento de ventas, un insumo clínico o parte del expediente; la clasificación cambia su manejo.",
+      "example": "Preguntar por interés en un procedimiento no equivale a registrar antecedentes médicos para decisión profesional.",
+      "expected": "Finalidad exacta, tipo de datos, destinatarios autorizados y relación con historia clínica."
     },
     {
       "id": "Q039",
@@ -349,7 +463,10 @@
       "hint": "Validar nombres, documento, IMC, antecedentes, fotografías, archivos.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "Se intenta limitar los datos solicitados a lo necesario, evitando que un formulario universal pida información clínica innecesaria.",
+      "example": "Para una valoración se pide motivo de consulta; fotos o antecedentes solo si la especialidad los requiere.",
+      "expected": "Campos obligatorios/opcionales, por especialidad, y motivos de cada dato sensible."
     },
     {
       "id": "Q040",
@@ -358,7 +475,10 @@
       "hint": "Distinguir captura de datos de evaluación clínica.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "Capturar información es distinto de interpretarla; debe decidirse si alguien la revisa antes de atender o cotizar.",
+      "example": "El paciente declara una alergia y el profesional recibe una alerta para revisarla, sin diagnóstico automático.",
+      "expected": "Revisor, momento, resultado esperado, alertas y acciones permitidas."
     },
     {
       "id": "Q041",
@@ -367,7 +487,10 @@
       "hint": "Validación legal de finalidades, versiones, responsables y evidencia.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "La autorización de contacto comercial no sustituye automáticamente una autorización para datos sensibles e imágenes.",
+      "example": "El paciente acepta finalidades separadas para atención y para uso de fotografías, si corresponde.",
+      "expected": "Textos y versiones de autorizaciones, evidencias, responsables y mecanismo de revocación."
     },
     {
       "id": "Q042",
@@ -376,7 +499,10 @@
       "hint": "Definir versión de respuesta, caducidad y edición posterior.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "El paciente puede corregir un error o reenviar datos; es importante definir si se sobrescriben o se conservan versiones.",
+      "example": "Inicia en teléfono, termina después y corrige un dato antes de la valoración.",
+      "expected": "Guardado parcial, plazos, posibilidad de edición y versiones registradas."
     },
     {
       "id": "Q043",
@@ -385,7 +511,10 @@
       "hint": "Concretar límites, almacenamiento privado y retención.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "Los límites de archivo influyen en seguridad, rendimiento y costo; eliminar de pantalla no significa eliminar del almacenamiento.",
+      "example": "Permitir pocas fotografías por solicitud con formato definido y borrado programado.",
+      "expected": "Formatos, tamaños, número máximo, almacenamiento, accesos y política de eliminación."
     },
     {
       "id": "Q044",
@@ -394,7 +523,10 @@
       "hint": "Definir controles de acceso, reemisión y trazabilidad.",
       "sectionId": "06",
       "section": "Preconsulta, captación de datos y consentimiento",
-      "stakeholder": "Profesional / legal / recepción"
+      "stakeholder": "Profesional / legal / recepción",
+      "clarification": "El enlace del formulario funciona como mecanismo de acceso y puede reenviarse; hay que decidir cómo controlar usos indebidos.",
+      "example": "Al vencer el enlace, recepción puede generar otro y el anterior deja de funcionar.",
+      "expected": "Expiración, autenticación adicional, reenvío, revocación y registro de accesos."
     },
     {
       "id": "Q045",
@@ -403,7 +535,10 @@
       "hint": "Definir catálogo y unidades comercializables.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Antes de construir cálculos de precio hay que definir la unidad comercial que realmente compra el paciente.",
+      "example": "Una propuesta combina una valoración, un procedimiento y servicios complementarios, cada uno identificado.",
+      "expected": "Tipos comercializables, combinaciones permitidas y desglose del catálogo."
     },
     {
       "id": "Q046",
@@ -412,7 +547,10 @@
       "hint": "Definir precios por clínica, sede, profesional, moneda y fecha.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Los precios pueden variar por sede y especialista; actualizar una tarifa no equivale a autorizar descuentos arbitrarios.",
+      "example": "Dirección define tarifa base; coordinación propone descuento y gerencia lo aprueba.",
+      "expected": "Responsable de alta y aprobación, reglas de variación, impuestos, moneda y fecha efectiva."
     },
     {
       "id": "Q047",
@@ -421,7 +559,10 @@
       "hint": "No suponer automatismos con consecuencias clínicas/económicas.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Un dato corporal puede servir al profesional, pero no debe asumirse que decide el precio automáticamente.",
+      "example": "El IMC se muestra para valoración; el especialista determina si influye o no conforme a reglas aprobadas.",
+      "expected": "Si hay automatismo, su fórmula, justificación, validación humana y casos excluidos."
     },
     {
       "id": "Q048",
@@ -430,7 +571,10 @@
       "hint": "Firma, evidencia, pago, reserva de procedimiento o paso manual.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "«Aceptada» puede significar respuesta verbal, firma digital, anticipo o autorización clínica; son eventos distintos.",
+      "example": "El paciente acepta precio por un enlace, pero la cirugía todavía requiere valoración y agenda.",
+      "expected": "Evento probatorio de aceptación, responsable, siguiente paso y condiciones previas."
     },
     {
       "id": "Q049",
@@ -439,7 +583,10 @@
       "hint": "Definir inmutabilidad de cotización enviada y auditoría.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Una cotización enviada debe poder reconstruirse aunque el catálogo o el descuento cambien después.",
+      "example": "Propuesta vigente 15 días; el descuento excepcional registra autor y motivo.",
+      "expected": "Duración, versiones, autorización de descuento y registro histórico no alterable."
     },
     {
       "id": "Q050",
@@ -448,7 +595,10 @@
       "hint": "Solicitar un ejemplo real anonimizado.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Se define la claridad comercial y qué entiende el paciente que está incluido o excluido, no solo la suma total.",
+      "example": "Desglose de honorarios, sala, insumos, servicios opcionales y condiciones de pago.",
+      "expected": "Plantilla de propuesta, conceptos, totales/rangos, notas y exclusiones."
     },
     {
       "id": "Q051",
@@ -457,7 +607,10 @@
       "hint": "Definir congelación del precio y nueva revisión.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Actualizar precios del catálogo no necesariamente cambia un presupuesto ya comunicado.",
+      "example": "La clínica sube sus tarifas hoy, pero una cotización vigente enviada ayer conserva el precio acordado.",
+      "expected": "Política de tarifa congelada, caducidad, nueva versión y aviso al paciente."
     },
     {
       "id": "Q052",
@@ -466,7 +619,10 @@
       "hint": "Control de rol, registro de eventos y consentimiento.",
       "sectionId": "07",
       "section": "Cotizador, precios, condiciones y aprobaciones",
-      "stakeholder": "Dirección comercial / especialistas / finanzas"
+      "stakeholder": "Dirección comercial / especialistas / finanzas",
+      "clarification": "Enviar y consultar interacciones sobre cotizaciones puede revelar información sensible o comercial; requiere permisos definidos.",
+      "example": "Comercial envía la propuesta; médico la revisa; el sistema muestra «entregada» si el proveedor confirma recepción.",
+      "expected": "Roles autorizados, mensajes, evidencia de lectura si existe y límites del proveedor."
     },
     {
       "id": "Q053",
@@ -475,7 +631,10 @@
       "hint": "Definir responsabilidades al iniciar y terminar la relación.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "Distingue la propiedad de recursos de Meta y el derecho sobre las conversaciones y datos, para evitar bloqueos al salir del proveedor.",
+      "example": "El número está a nombre de la clínica; RayoMed integra el canal, pero no se convierte en dueño del número.",
+      "expected": "Dueño legal, administrador técnico, acceso, exportación y terminación contractual de cada recurso."
     },
     {
       "id": "Q054",
@@ -484,7 +643,10 @@
       "hint": "Solicitar contratos reales y entorno de pruebas.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "La existencia comercial de EasyChatbot no demuestra que disponga de todas las funciones de integración necesarias; deben revisarse contratos técnicos.",
+      "example": "Consultar disponibilidad o recibir eventos de mensaje entregado requiere endpoints y credenciales verificables.",
+      "expected": "Documentación real, endpoints, autenticación, eventos, límites, sandbox y persona de soporte."
     },
     {
       "id": "Q055",
@@ -493,7 +655,10 @@
       "hint": "Determinar autorización antes de ejecutar acciones.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "Diferencia una sugerencia del chatbot de una operación que modifica compromisos de la clínica o acuerdos económicos.",
+      "example": "El bot propone horario y RayoMed confirma la reserva solo después de validar disponibilidad y autorización.",
+      "expected": "Quién propone, quién valida, quién ejecuta y cuándo se considera definitiva cada acción."
     },
     {
       "id": "Q056",
@@ -502,7 +667,10 @@
       "hint": "Definir deduplicación, políticas de plantillas, reintentos y fallbacks.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "Los mensajes tienen restricciones de entrega y pueden duplicarse; reintentar sin control podría mandar dos confirmaciones o crear dos citas.",
+      "example": "Se recibe dos veces la respuesta «sí, confirmo» y se procesa una sola acción; fuera de ventana se usa plantilla autorizada.",
+      "expected": "Clave de deduplicación, tiempos de reintento, manejo de errores y canal alternativo."
     },
     {
       "id": "Q057",
@@ -511,7 +679,10 @@
       "hint": "Separar transaccionales de promocionales, opt-in y reglas de envío.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "Recordatorios asistenciales y publicidad tienen finalidades distintas y no deben agruparse como mensajes indiscriminados.",
+      "example": "Recordatorio de cita frente a promoción de descuento: requieren reglas y consentimiento potencialmente distintos.",
+      "expected": "Tipos de mensaje, disparador, autorización, plantillas, audiencia y frecuencia."
     },
     {
       "id": "Q058",
@@ -520,7 +691,10 @@
       "hint": "Definir campos permitidos y protección de datos.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "Un proveedor de chatbot no necesita necesariamente conocer diagnósticos o fotografías para confirmar una cita.",
+      "example": "El bot recibe nombre de pila y fecha de cita, pero no antecedentes clínicos almacenados en otro módulo.",
+      "expected": "Lista blanca de datos por caso de uso, finalidad, retención, seguridad y responsables."
     },
     {
       "id": "Q059",
@@ -529,7 +703,10 @@
       "hint": "Definir estados, asignación y registro de intervenciones.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "Transferir a humano requiere continuidad y control para evitar que bot y agente respondan simultáneamente.",
+      "example": "El bot detecta «quiero hablar con una persona», asigna a recepción y deja de actuar hasta que el agente cierre el caso.",
+      "expected": "Disparadores de transferencia, cola, propietario de la conversación, retorno y auditoría."
     },
     {
       "id": "Q060",
@@ -538,7 +715,10 @@
       "hint": "Definir exclusión, baja de comunicaciones y frecuencia máxima.",
       "sectionId": "08",
       "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
-      "stakeholder": "Comercial / aliado / TI"
+      "stakeholder": "Comercial / aliado / TI",
+      "clarification": "«Seguimiento automático» debe tener límites explícitos para no saturar ni contactar fuera de horario o sin permiso.",
+      "example": "Un interesado recibe dos recordatorios espaciados y puede indicar «no volver a escribir».",
+      "expected": "Número máximo, intervalo, horarios, reglas de exclusión, baja y responsable de campañas."
     },
     {
       "id": "Q061",
@@ -547,7 +727,10 @@
       "hint": "Registrar alcance actual y visión posterior por separado.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "La versión V9 excluye historia clínica propia; es importante separar decisión del piloto y aspiración comercial a futuro.",
+      "example": "La primera entrega administra pacientes y citas, mientras las notas asistenciales continúan en sistema externo.",
+      "expected": "Inclusión/exclusión por fase, decisión firmada y condiciones para cambiarla."
     },
     {
       "id": "Q062",
@@ -556,7 +739,10 @@
       "hint": "Enumerar entidades clínicas que sí/no existirán.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "«Guardar datos de paciente» no dice si el producto será depositario de diagnósticos, órdenes o evoluciones médicas.",
+      "example": "Guardar motivo de contacto y preconsulta, pero no prescripciones ni evolución, salvo autorización de nueva fase.",
+      "expected": "Inventario de entidades clínicas y comerciales, ubicación y responsable del registro."
     },
     {
       "id": "Q063",
@@ -565,7 +751,10 @@
       "hint": "La V9 establece no acceso ni sincronización; cualquier cambio requiere nuevo alcance.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "Integración implica intercambiar datos con otro sistema y puede exigir contratos, permisos y cambios de alcance; un enlace simple no es equivalente.",
+      "example": "Un botón abre Dentalink para el médico, pero RayoMed no lee ni modifica su historia clínica.",
+      "expected": "Decisión por cada proveedor: sin integración, enlace, lectura o escritura; permisos y alcance."
     },
     {
       "id": "Q064",
@@ -574,7 +763,10 @@
       "hint": "Definir responsabilidad profesional y evidencia de revisión.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "La IA puede sugerir, pero el profesional clínico debe asumir la validación de información y decisiones sanitarias.",
+      "example": "Un modelo propone un código y el médico comprueba el contexto antes de aceptarlo.",
+      "expected": "Profesional que revisa, evidencia de aprobación, rechazo y manejo de discrepancias."
     },
     {
       "id": "Q065",
@@ -583,7 +775,10 @@
       "hint": "Medicina general, odontología, estética, fisioterapia, psicología, etc.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "Si algún día habrá historia clínica, se necesita decidir qué especialidades se implementan primero; cada una tiene formatos y flujos distintos.",
+      "example": "Medicina general registra consulta; odontología requiere odontograma, si esa especialidad se aprueba.",
+      "expected": "Fases, especialidades priorizadas, artefactos propios y quién valida cada formato."
     },
     {
       "id": "Q066",
@@ -592,7 +787,10 @@
       "hint": "Distinguir requisitos de fase futura de piloto.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "Adjuntos y firmas pueden existir en procesos comerciales o clínicos; se necesita definir para qué acto y bajo qué responsabilidad se generan.",
+      "example": "Una aceptación de presupuesto no sustituye un consentimiento informado para procedimiento.",
+      "expected": "Tipos de documento, propósito, firma exigida, conservación y etapa de implementación."
     },
     {
       "id": "Q067",
@@ -601,7 +799,10 @@
       "hint": "Definir políticas de integridad y trazabilidad; validar legalmente.",
       "sectionId": "09",
       "section": "Historia clínica e integración con sistemas clínicos",
-      "stakeholder": "Dirección médica / legal / TI"
+      "stakeholder": "Dirección médica / legal / TI",
+      "clarification": "Corregir un registro médico no equivale a borrar la versión previa; la integridad y trazabilidad requieren revisión normativa.",
+      "example": "Un profesional corrige una anotación, pero el sistema conserva autor, fecha y razón del cambio.",
+      "expected": "Quién corrige, qué se conserva, bitácora, restricciones y aprobación jurídica/clínica."
     },
     {
       "id": "Q068",
@@ -610,7 +811,10 @@
       "hint": "Ejemplos de V9: clasificar notas, sugerir CUPS/CIE-10; no asumir diagnóstico autónomo.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "La IA debe especificarse por tarea y resultado; la mención genérica de IA no permite calcular costo ni probar calidad.",
+      "example": "A partir de notas anonimizadas sugiere categorías o códigos para revisión, sin producir diagnóstico final.",
+      "expected": "Casos de uso, entradas y salidas, errores esperados, permisos y pruebas de aceptación."
     },
     {
       "id": "Q069",
@@ -619,7 +823,10 @@
       "hint": "Ejemplos: códigos finales, conducta clínica, alta, cambios al expediente.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "Se trata de poner fronteras a las acciones de IA, especialmente donde existe impacto clínico, legal o económico.",
+      "example": "El sistema nunca modifica un diagnóstico confirmado ni ordena un procedimiento sin aprobación profesional.",
+      "expected": "Acciones prohibidas, validaciones obligatorias y forma de mostrar propuestas frente a decisiones."
     },
     {
       "id": "Q070",
@@ -628,7 +835,10 @@
       "hint": "Definir métricas, muestras, tasa tolerable de errores y rechazo.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "«Funciona bien» no es una métrica; hace falta una evaluación reproducible con profesionales y casos representativos sin datos reales expuestos.",
+      "example": "Revisar 100 casos anonimizados y medir propuestas correctas, descartadas y peligrosas por categoría.",
+      "expected": "Muestra, criterios, métricas, umbrales, evaluador y procedimiento para no aprobar el modelo."
     },
     {
       "id": "Q071",
@@ -637,7 +847,10 @@
       "hint": "Precisar minimización, retención, contratos, región y autorización.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "Enviar datos a un proveedor de IA es compartir información con un tercero; la selección del modelo no reemplaza revisar finalidades y tratamiento.",
+      "example": "Se envía una nota desidentificada, excluyendo nombres, documentos y fotografías si no son necesarios.",
+      "expected": "Categorías permitidas, minimización, residencia, retención, condiciones y autorizaciones requeridas."
     },
     {
       "id": "Q072",
@@ -646,7 +859,10 @@
       "hint": "Log de propuestas/versiones y responsable humano.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "Sin trazabilidad de propuestas y correcciones no se sabe si la salida final vino del modelo o del profesional.",
+      "example": "La IA sugiere una clasificación; el médico la corrige y se conserva quién aprobó el resultado.",
+      "expected": "Versiones de sugerencia, corrección, responsable, fecha y mecanismos de revisión."
     },
     {
       "id": "Q073",
@@ -655,7 +871,10 @@
       "hint": "Diseñar catálogo de automatizaciones deterministas vs LLM.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "No se necesita un modelo de lenguaje para procesos basados en reglas claras; diferenciarlo mejora predictibilidad y costo.",
+      "example": "«Enviar recordatorio 24 horas antes» es una regla; resumir texto libre puede ser tarea de IA.",
+      "expected": "Catálogo de tareas, tecnología prevista, criterios para elegir y opción cuando IA no esté disponible."
     },
     {
       "id": "Q074",
@@ -664,7 +883,10 @@
       "hint": "Solicitar límites de consumo, alertas y fallbacks.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "La IA tiene costos variables y límites por proveedor; se debe evitar que un cliente consuma recursos ilimitadamente.",
+      "example": "Al llegar al límite mensual, desactivar análisis no crítico y avisar al administrador.",
+      "expected": "Presupuesto por unidad, límites, alertas, política al exceder y métricas de consumo."
     },
     {
       "id": "Q075",
@@ -673,7 +895,10 @@
       "hint": "Aclarar canales, permisos, herramientas y límites.",
       "sectionId": "10",
       "section": "Funciones de IA, riesgos y revisión humana",
-      "stakeholder": "Producto / dirección médica / TI"
+      "stakeholder": "Producto / dirección médica / TI",
+      "clarification": "El chatbot de WhatsApp y un copiloto dentro del panel pueden ser productos distintos con permisos y expectativas diferentes.",
+      "example": "Recepción usa bot externo para citas; médico podría usar asistente interno para resumir notas, en fase separada.",
+      "expected": "Canales, público, funciones, contexto permitido, proveedor y fase."
     },
     {
       "id": "Q076",
@@ -682,7 +907,10 @@
       "hint": "No inferir obligaciones desde “particular” o “convenio” por sí solos.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "Para definir documentos y reglas fiscales hay que saber qué entidad presta qué servicio y a quién factura, sin deducir obligaciones por nombre comercial.",
+      "example": "Consulta particular, paquete quirúrgico o servicio a asegurador pueden tener tratamientos documentales diferentes.",
+      "expected": "Prestador, servicios, pagadores, documentos emitidos y ejemplos anonimizados."
     },
     {
       "id": "Q077",
@@ -691,7 +919,10 @@
       "hint": "Validación escrita por responsable tributario/salud antes de construir reglas.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "Las reglas tributarias y sectoriales cambian y deben validarlas responsables competentes antes de codificarlas.",
+      "example": "Un contador identifica requisitos de factura y especialista sectorial confirma exigencias de reporte, si aplican.",
+      "expected": "Marco aplicable validado, versión, anexos, excepciones y firmante técnico-jurídico."
     },
     {
       "id": "Q078",
@@ -700,7 +931,10 @@
       "hint": "Decisión explícita de alcance y proveedor.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "Registrar un pago o una venta no significa emitir una factura válida ni producir archivos regulatorios.",
+      "example": "El piloto guarda que se recibió un anticipo, mientras otro sistema emite la factura correspondiente.",
+      "expected": "Qué se emitirá realmente, responsable, receptor, proveedor y exclusiones del piloto."
     },
     {
       "id": "Q079",
@@ -709,7 +943,10 @@
       "hint": "Pedir documentación, contrato, restricciones y pruebas.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "Elegir Dataico por nombre no garantiza que tenga API o ambiente adecuados para todas las operaciones requeridas.",
+      "example": "Consultar si el sandbox soporta crear facturas, recibir estados y gestionar ajustes.",
+      "expected": "Contrato, credenciales de pruebas, endpoints, límites, faltantes y soporte de proveedor."
     },
     {
       "id": "Q080",
@@ -718,7 +955,10 @@
       "hint": "Solicitar transacciones reales y controles contables.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "Las operaciones posteriores a una venta pueden exigir documentos y reconciliación; no siempre se resuelven borrando una transacción.",
+      "example": "Se recibe anticipo, se cancela el procedimiento y se gestiona una devolución con trazabilidad.",
+      "expected": "Casos, documentos relacionados, permisos, estados contables y reglas de reversión."
     },
     {
       "id": "Q081",
@@ -727,7 +967,10 @@
       "hint": "Definir monitoreo, corrección, reenvío e histórico.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "Un rechazo externo no debe quedar invisible al usuario ni generar reenvíos sin límite o duplicaciones.",
+      "example": "El proveedor rechaza una factura: aparece en una bandeja de corrección con motivo y responsable.",
+      "expected": "Alertas, responsable, reintento, corrección, evidencia e historial."
     },
     {
       "id": "Q082",
@@ -736,7 +979,10 @@
       "hint": "Definir módulo desactivable y grado de interoperabilidad.",
       "sectionId": "11",
       "section": "Facturación, recibos, RIPS y obligaciones",
-      "stakeholder": "Facturación / contador / especialista normativo"
+      "stakeholder": "Facturación / contador / especialista normativo",
+      "clarification": "El módulo puede ser opcional para clínicas con soluciones propias; se debe decidir cómo interoperan sin duplicar documentos.",
+      "example": "Una clínica mantiene su software contable y RayoMed solo consulta un estado o enlaza el comprobante.",
+      "expected": "Activación por cliente, datos mínimos intercambiados, proveedor y manejo de duplicados."
     },
     {
       "id": "Q083",
@@ -745,7 +991,10 @@
       "hint": "Restricciones comerciales, licencias, personalizaciones y costo operativo.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Operar una instancia Vtiger por tenant añade aislamiento pero también mantenimiento, costos y dificultades de escalado; buscar la razón verificable.",
+      "example": "Se elige por obligaciones contractuales, pero se revisará al superar cierta cantidad de clínicas o costo mensual.",
+      "expected": "Razón de elección, restricciones, costo operativo y condiciones de reevaluación."
     },
     {
       "id": "Q084",
@@ -754,7 +1003,10 @@
       "hint": "Construir matriz de ownership; no dejar dos fuentes autoritativas.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Una «fuente de verdad» es el sistema autorizado para crear y definir el estado de un dato; una copia no puede competir por autoridad.",
+      "example": "Google define la disponibilidad de la cita, mientras RayoMed guarda su relación con la oportunidad comercial.",
+      "expected": "Tabla por entidad: sistema maestro, copias, dirección de sincronización y resolución de conflictos."
     },
     {
       "id": "Q085",
@@ -763,7 +1015,10 @@
       "hint": "Definir consistencia eventual, reintento, compensación y estado visible.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "En una operación distribuida no todas las plataformas confirman a la vez; el usuario debe distinguir «pendiente» de «completado».",
+      "example": "La cita se guarda, pero falla el mensaje de WhatsApp: se conserva la cita y se reintenta la notificación.",
+      "expected": "Paso crítico, secuencia, estados intermedios, compensación, reintentos y aviso."
     },
     {
       "id": "Q086",
@@ -772,7 +1027,10 @@
       "hint": "Contrato, autenticación, correlación, idempotencia y mensajes fuera de orden.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Los webhooks pueden llegar duplicados y deben pertenecer a una clínica correcta; sin ello hay riesgos de datos cruzados.",
+      "example": "Un evento de EasyChatbot contiene un identificador verificable de clínica y se ignora si ya fue procesado.",
+      "expected": "Contratos de eventos, identidad de tenant, validación, idempotencia y retención de logs."
     },
     {
       "id": "Q087",
@@ -781,7 +1039,10 @@
       "hint": "Definir tiempos de espera y cola de trabajos.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Algunas funciones exigen respuesta inmediata y otras permiten trabajo asíncrono; mezclar ambas empeora tiempos o crea errores.",
+      "example": "Confirmar disponibilidad debe responder rápido; enviar recordatorios masivos puede hacerse con cola.",
+      "expected": "Operaciones síncronas, tareas en cola, tiempos máximos y estado visible."
     },
     {
       "id": "Q088",
@@ -790,7 +1051,10 @@
       "hint": "Aprovisionamiento y verificación reproducibles.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Dar de alta una clínica nueva requiere más que crear un registro: hay configuración, credenciales, permisos y pruebas de salud.",
+      "example": "Activar un cliente crea espacio aislado, configura integraciones y verifica que la agenda responda.",
+      "expected": "Secuencia de aprovisionamiento, requisitos previos, automatización, fallos y checklist de activación."
     },
     {
       "id": "Q089",
@@ -799,7 +1063,10 @@
       "hint": "Migraciones, compatibilidad, rollback y monitoreo.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Las instalaciones Vtiger separadas se actualizan en momentos distintos; una personalización puede romper compatibilidad con el Core.",
+      "example": "Actualizar 20 instancias por lotes con prueba previa y posibilidad de regresar a versión anterior.",
+      "expected": "Estrategia de versiones, migración, monitoreo, rollout y rollback."
     },
     {
       "id": "Q090",
@@ -808,7 +1075,10 @@
       "hint": "Autorizaciones, evidencia, eventos, auditoría, configuración e integraciones.",
       "sectionId": "12",
       "section": "Arquitectura de integración y propiedad de datos",
-      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores",
+      "clarification": "Define qué conserva la plataforma central incluso si Vtiger es el CRM comercial; evitar duplicar todo sin motivo.",
+      "example": "El Core conserva identificadores, autorizaciones y bitácora de integraciones sin copiar fotografías innecesariamente.",
+      "expected": "Modelo de datos central, propietario de cada dato, retención y necesidades de auditoría."
     },
     {
       "id": "Q091",
@@ -817,7 +1087,10 @@
       "hint": "Validación contractual y flujos transfronterizos cuando aplique.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "Hay diferentes responsabilidades entre clínica, operador SaaS y proveedores; deben definirse contractualmente según cada tratamiento.",
+      "example": "La clínica determina fines de atención y RayoMed presta una función de procesamiento, sujeto a revisión legal.",
+      "expected": "Roles jurídicos por operación, terceros, transferencias y documentos exigidos."
     },
     {
       "id": "Q092",
@@ -826,7 +1099,10 @@
       "hint": "Matriz de autorización por tenant, rol, sede y paciente.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "No basta el rol «médico» para ver todo: puede importar a qué clínica, sede y relación asistencial pertenece el dato.",
+      "example": "Un agente comercial ve cita y nombre, pero no fotografía o antecedentes del paciente.",
+      "expected": "Clasificación de sensibilidad y matriz de acceso por rol, tenant y finalidad."
     },
     {
       "id": "Q093",
@@ -835,7 +1111,10 @@
       "hint": "Definir eventos de auditoría, retención y acceso a logs.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "La auditoría permite saber quién vio o modificó datos sensibles, sin guardar información clínica innecesaria dentro del log.",
+      "example": "Registrar que un usuario descargó una fotografía, a qué hora y con qué permiso.",
+      "expected": "Eventos a auditar, contenido mínimo, plazo, acceso a logs y alertas."
     },
     {
       "id": "Q094",
@@ -844,7 +1123,10 @@
       "hint": "Flujo con responsable y excepciones legales.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "Derechos sobre datos requieren un proceso de atención; no todo pedido implica borrado inmediato si hay obligaciones legales de conservación.",
+      "example": "El usuario solicita corregir teléfono; otro solicita eliminación de fotografía, sujeto a revisión del responsable.",
+      "expected": "Canal, plazos, autorizaciones, excepciones, evidencias y responsable del proceso."
     },
     {
       "id": "Q095",
@@ -853,7 +1135,10 @@
       "hint": "Acordar medidas y responsable de operación.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "Las claves y enlaces de acceso deben administrarse de forma segura para que no terminen en código, logs o compartidos permanentemente.",
+      "example": "Fotografías privadas se entregan mediante URL temporal; las credenciales de Meta se rotan sin detener el servicio.",
+      "expected": "Controles de cifrado, administración de secretos, acceso, rotación y recuperación."
     },
     {
       "id": "Q096",
@@ -862,7 +1147,10 @@
       "hint": "Separar propósito, obligación y período por categoría.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "Cada categoría de dato puede tener motivo y plazo distintos; «guardar para siempre» o «borrar todo al salir» puede ser incorrecto.",
+      "example": "Fotografías de preconsulta y cotizaciones pueden requerir períodos de conservación distintos, sujetos a validación.",
+      "expected": "Tabla por dato, finalidad, norma/contrato, plazo, borrado y excepciones de respaldo."
     },
     {
       "id": "Q097",
@@ -871,7 +1159,10 @@
       "hint": "Identificar RTO/RPO y responsables.",
       "sectionId": "13",
       "section": "Privacidad, seguridad, acceso y auditoría",
-      "stakeholder": "Seguridad / legal / arquitectura"
+      "stakeholder": "Seguridad / legal / arquitectura",
+      "clarification": "Se busca saber qué hacer al perder servicio o sufrir incidente de datos, quién decide y cuánto tiempo puede estar interrumpido.",
+      "example": "Si falla la base, restaurar sin afectar a otros tenants y avisar según obligaciones aplicables.",
+      "expected": "Responsables, protocolo, RTO, RPO, contactos, ejercicios y notificaciones."
     },
     {
       "id": "Q098",
@@ -880,7 +1171,10 @@
       "hint": "Hacer demostración de los flujos reales.",
       "sectionId": "14",
       "section": "Experiencia de usuario, canales y accesibilidad",
-      "stakeholder": "Usuarios finales / producto / UX"
+      "stakeholder": "Usuarios finales / producto / UX",
+      "clarification": "Priorizar tareas cotidianas sirve para diseñar navegación y reducir clics reales, no solo para elegir colores.",
+      "example": "Recepción confirma la llegada, reprograma una cita y envía presupuesto con pocos pasos.",
+      "expected": "Tres tareas críticas por rol, pasos actuales, objetivo de tiempo y pantallas."
     },
     {
       "id": "Q099",
@@ -889,7 +1183,10 @@
       "hint": "Confirmar dispositivos, navegador y necesidad de trabajo offline.",
       "sectionId": "14",
       "section": "Experiencia de usuario, canales y accesibilidad",
-      "stakeholder": "Usuarios finales / producto / UX"
+      "stakeholder": "Usuarios finales / producto / UX",
+      "clarification": "«Responsive» significa interfaz adaptable; PWA añade instalabilidad y ciertas capacidades offline; app nativa es otra inversión.",
+      "example": "El personal usa navegador en escritorio y pacientes completan formularios desde móvil, sin app descargable.",
+      "expected": "Plataformas obligatorias, conectividad, instalaciones, periféricos y requerimientos offline."
     },
     {
       "id": "Q100",
@@ -898,7 +1195,10 @@
       "hint": "Identificar navegación, densidad de información y permisos.",
       "sectionId": "14",
       "section": "Experiencia de usuario, canales y accesibilidad",
-      "stakeholder": "Usuarios finales / producto / UX"
+      "stakeholder": "Usuarios finales / producto / UX",
+      "clarification": "Un único panel con permisos puede ser suficiente o podría requerirse experiencia diferente por tipo de actor.",
+      "example": "Médico entra a agenda y pacientes; administrador entra a usuarios y facturación; paciente usa portal simplificado.",
+      "expected": "Vistas por rol, tareas prioritarias, accesos y razones para separar portales."
     },
     {
       "id": "Q101",
@@ -907,7 +1207,10 @@
       "hint": "Dibujar una tarjeta de cita y pantallas.",
       "sectionId": "14",
       "section": "Experiencia de usuario, canales y accesibilidad",
-      "stakeholder": "Usuarios finales / producto / UX"
+      "stakeholder": "Usuarios finales / producto / UX",
+      "clarification": "Un tablero diario debe mostrar información suficiente para operar sin revelar diagnósticos o fotos a quien no corresponde.",
+      "example": "Tarjeta visible a recepción: hora, iniciales, tipo de cita y estado; datos clínicos solo al médico autorizado.",
+      "expected": "Campos, acciones, estados y matriz de visibilidad en agenda diaria."
     },
     {
       "id": "Q102",
@@ -916,7 +1219,10 @@
       "hint": "Especificar necesidades reales del piloto.",
       "sectionId": "14",
       "section": "Experiencia de usuario, canales y accesibilidad",
-      "stakeholder": "Usuarios finales / producto / UX"
+      "stakeholder": "Usuarios finales / producto / UX",
+      "clarification": "Fechas, idioma, zona horaria y accesibilidad afectan el uso real; no asumir que todos trabajarán en español o desde Colombia.",
+      "example": "Formato de fecha local y huso por sede; navegación usable en celular y con teclado.",
+      "expected": "Idiomas, localización, accesibilidad mínima y dispositivos priorizados."
     },
     {
       "id": "Q103",
@@ -925,7 +1231,10 @@
       "hint": "Definir validación observable.",
       "sectionId": "14",
       "section": "Experiencia de usuario, canales y accesibilidad",
-      "stakeholder": "Usuarios finales / producto / UX"
+      "stakeholder": "Usuarios finales / producto / UX",
+      "clarification": "La aprobación del diseño debe basarse en tareas observables con usuarios representativos, no solo en gustos visuales.",
+      "example": "Recepción reserva y cambia una cita sobre un prototipo sin recibir ayuda del diseñador.",
+      "expected": "Participantes, tareas de prueba, tiempos/errores aceptables y acta de aprobación."
     },
     {
       "id": "Q104",
@@ -934,7 +1243,10 @@
       "hint": "Estimaciones para dimensionamiento y costos.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "Las cifras de volumen dimensionan integraciones, base de datos, colas y costos; incluir picos y no solo promedios.",
+      "example": "Diez clínicas envían recordatorios a primera hora y generan un pico aunque el promedio diario sea bajo.",
+      "expected": "Tenants, usuarios concurrentes, transacciones, picos y proyección anual."
     },
     {
       "id": "Q105",
@@ -943,7 +1255,10 @@
       "hint": "Definir estrategia de contingencia.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "La disponibilidad esperada define operación de contingencia y compromisos; un SaaS que falla durante atención necesita plan alterno.",
+      "example": "Si la agenda está caída, recepción consulta un listado seguro autorizado y sincroniza después.",
+      "expected": "Objetivo de disponibilidad, tareas críticas, solución temporal y tiempo máximo aceptable."
     },
     {
       "id": "Q106",
@@ -952,7 +1267,10 @@
       "hint": "Establecer techo de costos y costos por tenant.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "El presupuesto de desarrollo no es el mismo que el costo recurrente por servidores, mensajes, proveedores y modelos de IA.",
+      "example": "Pagar infraestructura base y cobros por mensajes y tokens que aumentan con cada clínica.",
+      "expected": "Techo mensual total y por tenant, proveedores, proyecciones y aprobador de sobrecostos."
     },
     {
       "id": "Q107",
@@ -961,7 +1279,10 @@
       "hint": "Definir datos sintéticos, aislamiento y accesos.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "Los entornos deben evitar probar con pacientes reales o credenciales de producción y distinguir cambios antes de publicarlos.",
+      "example": "QA usa pacientes ficticios y sandbox de pagos, producción contiene únicamente datos operativos autorizados.",
+      "expected": "Entornos, segregación de secretos/datos, accesos y proceso de promoción."
     },
     {
       "id": "Q108",
@@ -970,7 +1291,10 @@
       "hint": "Identificar responsables de incidentes.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "Métricas y alertas deben permitir detectar caídas de integraciones antes de que el usuario lo denuncie.",
+      "example": "Un tablero alerta que EasyChatbot entrega webhooks con demora o que Google rechaza sincronizaciones.",
+      "expected": "Indicadores, umbrales, retención de logs, alarmas y responsable de guardia."
     },
     {
       "id": "Q109",
@@ -979,7 +1303,10 @@
       "hint": "Pruebas periódicas, RPO y RTO.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "Crear respaldos no garantiza restauración: hay que comprobar recuperación completa de un cliente sin mezclar datos con otro.",
+      "example": "Restaurar una clínica de prueba desde backup y verificar sus citas y permisos por separado.",
+      "expected": "Frecuencia, cifrado, retención, pruebas de restauración, RPO y RTO."
     },
     {
       "id": "Q110",
@@ -988,7 +1315,10 @@
       "hint": "Definir degradación aceptable por flujo.",
       "sectionId": "15",
       "section": "Operación, escala, presupuesto y continuidad",
-      "stakeholder": "Dirección / operaciones / DevOps"
+      "stakeholder": "Dirección / operaciones / DevOps",
+      "clarification": "No todas las dependencias requieren apagar toda la plataforma; determinar qué sigue funcionando y qué queda pendiente.",
+      "example": "Si Meta no está disponible, recepción todavía consulta las citas, mientras notificaciones se encolan.",
+      "expected": "Matriz proveedor → función afectada, modo degradado, recuperación y mensaje al usuario."
     },
     {
       "id": "Q111",
@@ -997,7 +1327,10 @@
       "hint": "Diferenciar fecha deseada, contractual y ventana de validación.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "Diferencia intención comercial de obligación contractual y fechas efectivas de entrega o validación.",
+      "example": "Se desea demo en diciembre, pero la aceptación por la clínica ocurre tras dos semanas de pruebas.",
+      "expected": "Fechas, hitos, dependencias, períodos de revisión y condiciones contractuales."
     },
     {
       "id": "Q112",
@@ -1006,7 +1339,10 @@
       "hint": "Nombrar Product Owner y responsable clínico cuando corresponda.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "Varias personas pueden opinar, pero debe existir autoridad clara para resolver desacuerdos y aprobar cambios.",
+      "example": "Dirección decide presupuesto, responsable clínico aprueba formularios y Product Owner prioriza backlog.",
+      "expected": "Nombres o cargos, decisiones que pueden tomar y evidencias de aprobación."
     },
     {
       "id": "Q113",
@@ -1015,7 +1351,10 @@
       "hint": "Definir demo con datos anonimizados y escenarios de fallo.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "Un piloto debe demostrar un recorrido completo realista, no pantallas independientes que no comparten información.",
+      "example": "Desde recibir WhatsApp hasta agendar, valorar, cotizar y hacer seguimiento usando datos ficticios.",
+      "expected": "Escenario paso a paso, participantes, datos de prueba, fallos simulados y criterio de éxito."
     },
     {
       "id": "Q114",
@@ -1024,7 +1363,10 @@
       "hint": "Establecer Definition of Done.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "La calidad debe definirse de forma verificable para evitar entregar funcionalidades sin pruebas o sin seguridad suficiente.",
+      "example": "Una historia no se cierra si no tiene pruebas de permisos, registros de error y criterios aceptados.",
+      "expected": "Definition of Done por tipo de funcionalidad, pruebas y responsables."
     },
     {
       "id": "Q115",
@@ -1033,7 +1375,10 @@
       "hint": "No aceptar una integración sin medios para verificarla.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "Integrar un proveedor exige medios reales de prueba; tener solo una presentación comercial no demuestra viabilidad.",
+      "example": "Solicitar cuenta sandbox, documentación de webhook y contacto que atienda errores de integración.",
+      "expected": "API, credenciales de ensayo, contrato, entorno, soporte y fecha de disponibilidad."
     },
     {
       "id": "Q116",
@@ -1042,7 +1387,10 @@
       "hint": "Estado pendiente y mecanismo de aplazamiento explícito.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "Si una decisión esencial queda sin dueño, el equipo no debe inventarla ni implementarla silenciosamente.",
+      "example": "Sin acuerdo sobre historia clínica, se difiere el módulo y se conserva la pregunta con impacto documentado.",
+      "expected": "Responsable, fecha límite, opción de aplazar y efecto sobre alcance/costo/plazo."
     },
     {
       "id": "Q117",
@@ -1051,7 +1399,10 @@
       "hint": "Versionado, impacto de costo, fecha y aprobación.",
       "sectionId": "16",
       "section": "Entrega, criterios de aceptación y gobierno de cambios",
-      "stakeholder": "Patrocinador / PO / equipo técnico"
+      "stakeholder": "Patrocinador / PO / equipo técnico",
+      "clarification": "Los requisitos evolucionan; se necesita un mecanismo de cambio para que PRD y SDD aprobados no se modifiquen sin control.",
+      "example": "Pedir un portal de paciente después de cerrar el SDD exige análisis de impacto y aprobación de nueva versión.",
+      "expected": "Procedimiento de solicitud, versiones, impacto, aprobaciones y rastreo a historias/pruebas."
     }
   ],
   "executive": [
@@ -1062,7 +1413,10 @@
       "hint": "¿Cómo lo resuelven hoy y cuánto tiempo/dinero les cuesta?",
       "sectionId": "E1",
       "section": "Qué producto es y a quién se dirige",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Se busca identificar el problema de negocio antes de escoger tecnologías; no basta con decir «optimizar procesos».",
+      "example": "Una clínica pierde solicitudes porque recepción contesta WhatsApp después de varias horas y no puede dar seguimiento.",
+      "expected": "Problema específico, a quién afecta, frecuencia, impacto y resultado que esperan obtener."
     },
     {
       "id": "E02",
@@ -1071,7 +1425,10 @@
       "hint": "¿Cuál es la visión a dos años?",
       "sectionId": "E1",
       "section": "Qué producto es y a quién se dirige",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Define el tipo de producto que se venderá y la dirección futura. Un CRM gestiona contactos y ventas; una plataforma clínica incorpora además actividades asistenciales y registros médicos.",
+      "example": "Fase 1: captar interesados y agendar; fase posterior: gestión clínica especializada, si se aprueba.",
+      "expected": "Visión principal, capacidades de corto y largo plazo y límites explícitos entre ambas."
     },
     {
       "id": "E03",
@@ -1080,7 +1437,10 @@
       "hint": "¿Clínicas de estética, odontólogos, medicina general, especialistas independientes u otro? Nombrar el primer cliente real.",
       "sectionId": "E1",
       "section": "Qué producto es y a quién se dirige",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Se necesita un cliente inicial concreto, no una lista de todas las especialidades a las que podría venderse en el futuro.",
+      "example": "Empezar con un consultorio de cirugía estética y más adelante incorporar odontología y medicina general.",
+      "expected": "Segmento prioritario, nombre o perfil del piloto y especialidades que quedan para fases futuras."
     },
     {
       "id": "E04",
@@ -1089,7 +1449,10 @@
       "hint": "Elegir un máximo de cinco capacidades; distinguirlas de lo deseable y de lo futuro.",
       "sectionId": "E1",
       "section": "Qué producto es y a quién se dirige",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "«Imprescindible» significa que, sin ello, el piloto no puede operar o no demuestra valor; no equivale a «sería bueno tenerlo».",
+      "example": "Recepción de interesados, agenda, recordatorios, cotización y seguimiento; analítica avanzada podría esperar.",
+      "expected": "Máximo cinco capacidades, usuario beneficiado y criterio para comprobar que cada una funciona."
     },
     {
       "id": "E05",
@@ -1098,7 +1461,10 @@
       "hint": "Confirmar expresamente si incluye o excluye historia clínica propia, teleconsulta, pagos, facturación, campañas y gestión clínica avanzada.",
       "sectionId": "E1",
       "section": "Qué producto es y a quién se dirige",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "La respuesta debe enumerar las exclusiones para impedir que se conviertan accidentalmente en compromisos durante el desarrollo.",
+      "example": "El piloto permite solicitar citas, pero no realiza videoconsultas ni conserva una historia clínica propia.",
+      "expected": "Lista de exclusiones, alternativas temporales y condición para reabrir cada tema."
     },
     {
       "id": "E06",
@@ -1107,7 +1473,10 @@
       "hint": "¿Quién interviene, en qué aplicación y qué información comparte?",
       "sectionId": "E2",
       "section": "Operación real y usuarios",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Pida que relaten una atención real de principio a fin, incluidas demoras, excepciones y cambios entre sistemas; evite describir el proceso ideal.",
+      "example": "Una persona escribe, recepción pregunta datos, el médico revisa, se agenda valoración y luego se contacta para seguimiento.",
+      "expected": "Secuencia de acciones, responsables, datos utilizados, sistemas y problemas observados."
     },
     {
       "id": "E07",
@@ -1116,7 +1485,10 @@
       "hint": "¿Qué hace recepción, médico, comercial, administrador y paciente? ¿Quién puede ver antecedentes y fotografías?",
       "sectionId": "E2",
       "section": "Operación real y usuarios",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Se pretende identificar perfiles de acceso por tarea y evitar que el rol comercial pueda ver información clínica sin autorización.",
+      "example": "Recepción consulta horarios; el médico revisa antecedentes; comercial ve el estado de cotización, pero no fotografías clínicas.",
+      "expected": "Roles existentes, tareas de cada rol, datos visibles y operaciones prohibidas."
     },
     {
       "id": "E08",
@@ -1125,7 +1497,10 @@
       "hint": "¿Qué pasa si escribe desde dos números o asiste a dos clínicas?",
       "sectionId": "E2",
       "section": "Operación real y usuarios",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Identificar a una persona en distintos canales no siempre es igual a reconocer una cuenta de paciente; también puede haber homónimos.",
+      "example": "Un interesado escribe desde otro número y el sistema propone revisar si corresponde a un paciente registrado.",
+      "expected": "Identificadores permitidos, coincidencias dudosas y procedimiento de confirmación humana."
     },
     {
       "id": "E09",
@@ -1134,7 +1509,10 @@
       "hint": "¿Quién reserva, confirma, cancela o reprograma? ¿Qué pasa si dos personas piden el mismo horario?",
       "sectionId": "E2",
       "section": "Operación real y usuarios",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Aclarar la agenda real y quién tiene autoridad para comprometer un horario; también importa la disponibilidad de salas y equipos.",
+      "example": "Dos agentes ofrecen las 3:00 p. m. del mismo médico: solo una reserva debe quedar confirmada.",
+      "expected": "Responsables de cada acción, reglas de disponibilidad y manejo de cancelaciones, conflictos y reprogramaciones."
     },
     {
       "id": "E10",
@@ -1143,7 +1521,10 @@
       "hint": "¿Qué pasos debe automatizar RayoMed y cuáles tienen que ser aprobados por una persona?",
       "sectionId": "E2",
       "section": "Operación real y usuarios",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Diferenciar preparar una propuesta económica de enviarla, aceptarla y comprometer un procedimiento. Algunas decisiones requieren supervisión humana.",
+      "example": "La plataforma calcula un borrador, pero el especialista aprueba un precio especial antes de enviarlo.",
+      "expected": "Pasos actuales, aprobaciones, reglas de cálculo y seguimiento después del envío."
     },
     {
       "id": "E11",
@@ -1152,7 +1533,10 @@
       "hint": "¿Se usan sedes, equipos o consultorios además de profesionales?",
       "sectionId": "E3",
       "section": "Dependencias y arquitectura",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "«Fuente única» significa que la disponibilidad oficial se define en Google Calendar; debe aclararse si esta restricción de V9 es definitiva.",
+      "example": "Un médico bloquea una hora en Google y RayoMed debe verla como no disponible, aun si recepción intenta reservar.",
+      "expected": "Sistema propietario del horario, recursos adicionales, reglas de sincronización y contingencias."
     },
     {
       "id": "E12",
@@ -1161,7 +1545,10 @@
       "hint": "¿Quién asumirá mantenimiento, hosting y actualizaciones de cada instancia?",
       "sectionId": "E3",
       "section": "Dependencias y arquitectura",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "«Una instancia por cliente» significa operar instalaciones separadas de Vtiger por clínica, no solo separar datos dentro de una misma aplicación.",
+      "example": "Con 30 clínicas habría 30 instalaciones que actualizar, respaldar y vigilar, salvo cambio arquitectónico.",
+      "expected": "Justificación de la decisión, responsable operativo, costos esperados y criterios para reconsiderarla."
     },
     {
       "id": "E13",
@@ -1170,7 +1557,10 @@
       "hint": "¿Qué sistemas pueden reemplazarse? Pedir APIs y responsables de cada proveedor.",
       "sectionId": "E3",
       "section": "Dependencias y arquitectura",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Diferencie herramientas que son obligatorias por contrato o costumbre de las que se podrían sustituir; necesitar integración no implica reemplazo.",
+      "example": "Conservar el sistema de facturación existente, conectar WhatsApp y reemplazar hojas de cálculo manuales.",
+      "expected": "Inventario de sistemas, obligatoriedad, forma de conexión, limitaciones y contacto técnico."
     },
     {
       "id": "E14",
@@ -1179,7 +1569,10 @@
       "hint": "¿Qué puede procesar EasyChatbot?",
       "sectionId": "E3",
       "section": "Dependencias y arquitectura",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Se pregunta por propiedad y portabilidad de activos y datos, no solo por quién paga WhatsApp o EasyChatbot.",
+      "example": "Al finalizar un contrato, la clínica conserva su número y obtiene exportación autorizada de sus contactos.",
+      "expected": "Titular de cada activo, accesos, responsabilidades contractuales y procedimiento de salida."
     },
     {
       "id": "E15",
@@ -1188,7 +1581,10 @@
       "hint": "¿Dónde quedan antecedentes, diagnósticos, notas y documentos?",
       "sectionId": "E4",
       "section": "Historia clínica, IA y cumplimiento",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "La V9 y la visión futura no parecen establecer el mismo alcance clínico; se necesita una decisión expresa para evitar desarrollar historia clínica por suposición.",
+      "example": "En piloto solo se captura un cuestionario previo, mientras las notas médicas siguen en otro software.",
+      "expected": "Datos clínicos permitidos y excluidos en cada fase, ubicación y profesional responsable."
     },
     {
       "id": "E16",
@@ -1197,7 +1593,10 @@
       "hint": "Solicitar tres ejemplos exactos de entrada, respuesta esperada y aprobación humana; diferenciar automatización de IA.",
       "sectionId": "E4",
       "section": "Historia clínica, IA y cumplimiento",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "«Hacer IA» es demasiado amplio: hay que convertirlo en tareas delimitadas con entradas, salidas y supervisión.",
+      "example": "A partir de notas desidentificadas, la IA propone categorías que un profesional acepta o corrige.",
+      "expected": "Tres casos con datos de entrada, resultado esperado, límite de autonomía y responsable de validación."
     },
     {
       "id": "E17",
@@ -1206,7 +1605,10 @@
       "hint": "¿Quién validará con criterio legal esos tratamientos y la retención de fotografías?",
       "sectionId": "E4",
       "section": "Historia clínica, IA y cumplimiento",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Identificar exactamente qué información se recogerá, por qué se necesita y qué terceros podrán tratarla; requiere evaluación jurídica competente.",
+      "example": "Solicitar fotografías para una valoración previa requiere una finalidad definida y acceso restringido.",
+      "expected": "Categorías de datos, finalidad, autorización, conservación y responsable de revisión legal."
     },
     {
       "id": "E18",
@@ -1215,7 +1617,10 @@
       "hint": "¿Quién validará la normativa vigente y con qué proveedor se integrará? No asumir que un paciente particular está exento por definición.",
       "sectionId": "E4",
       "section": "Historia clínica, IA y cumplimiento",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Facturación y RIPS no deben suponerse incluidos o excluidos solo por el tipo de paciente; dependen de la operación y de validación especializada.",
+      "example": "Una clínica emite factura con su proveedor actual y RayoMed solo registra el estado, si eso se acuerda.",
+      "expected": "Operaciones alcanzadas, documentos obligatorios, proveedor y responsable de validar el cumplimiento."
     },
     {
       "id": "E19",
@@ -1224,7 +1629,10 @@
       "hint": "Definir tres a cinco indicadores medibles y una demostración end-to-end que acepte el cliente.",
       "sectionId": "E5",
       "section": "Éxito y decisiones de proyecto",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Éxito exige resultados medibles y una prueba que pueda observarse, no una apreciación general de que «se ve bien».",
+      "example": "Gestionar 50 solicitudes de prueba, evitar duplicación de reservas y demostrar el ciclo desde contacto a seguimiento.",
+      "expected": "Indicadores, valores objetivos, escenario de demostración y quién firma la aceptación."
     },
     {
       "id": "E20",
@@ -1233,7 +1641,10 @@
       "hint": "¿Quién valida funcionalmente cada módulo y decide cuando hay dudas?",
       "sectionId": "E5",
       "section": "Éxito y decisiones de proyecto",
-      "stakeholder": "Dirección / Producto / Cliente piloto"
+      "stakeholder": "Dirección / Producto / Cliente piloto",
+      "clarification": "Aclarar restricciones de dinero, fecha y autoridad; una expectativa verbal no equivale a presupuesto aprobado o compromiso contractual.",
+      "example": "Si aparece un módulo nuevo, la dirección decide si desplaza algo del piloto o amplía costo y plazo.",
+      "expected": "Rango presupuestal, hitos, persona que aprueba y procedimiento para cambios."
     }
   ]
 }
