@@ -1,0 +1,1239 @@
+{
+  "detailed": [
+    {
+      "id": "Q001",
+      "priority": "P0",
+      "text": "Si RayoMed existiera hoy, ¿qué problema concreto le resolvería al profesional de salud que actualmente no puede resolver bien?",
+      "hint": "Describir un caso real: actor, situación actual, pérdida y mejora esperada.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q002",
+      "priority": "P0",
+      "text": "¿Estamos construyendo un CRM comercial de clínicas, una plataforma clínica integral o un piloto comercial que crecerá a plataforma clínica?",
+      "hint": "Elegir una opción y describir el producto a 12–24 meses.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q003",
+      "priority": "P0",
+      "text": "¿A quién queremos vender primero: cirujano estético independiente, clínica estética, odontología, consultorio general o múltiples especialidades?",
+      "hint": "Indicar cliente piloto principal y segmentos futuros.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q004",
+      "priority": "P0",
+      "text": "¿Qué cinco funcionalidades tienen que estar operativas en la primera entrega para considerar que existe un producto vendible?",
+      "hint": "Separar imprescindible de deseable y futuro.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q005",
+      "priority": "P0",
+      "text": "¿Qué queda explícitamente fuera del piloto aunque aparezca en la visión comercial?",
+      "hint": "Ejemplos: historia clínica propia, teleconsulta, pagos, campañas, RIPS.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q006",
+      "priority": "P1",
+      "text": "¿Qué indicadores demostrarán el éxito del piloto?",
+      "hint": "Ejemplos a concretar: citas gestionadas, leads atendidos, tiempo ahorrado, cotizaciones aceptadas, tasa de ausencias.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q007",
+      "priority": "P1",
+      "text": "¿Cuál es la ventaja que un cliente pagaría frente a usar Vtiger, Google Calendar, WhatsApp y su sistema clínico por separado?",
+      "hint": "Pedir una propuesta de valor en una frase y evidencia del dolor.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q008",
+      "priority": "P1",
+      "text": "¿Qué nombre comercial, marca, dominios y público geográfico tendrá el producto?",
+      "hint": "Confirmar Colombia, otros países e idiomas inicialmente soportados.",
+      "sectionId": "01",
+      "section": "Visión, posicionamiento y alcance del producto",
+      "stakeholder": "Dirección / patrocinador"
+    },
+    {
+      "id": "Q009",
+      "priority": "P0",
+      "text": "¿Qué clínica o profesional participará como piloto y quién puede validar cada flujo?",
+      "hint": "Solicitar un responsable con autoridad para aprobar los criterios de aceptación.",
+      "sectionId": "02",
+      "section": "Cliente piloto y operación real",
+      "stakeholder": "Clínica piloto / administrador / recepción"
+    },
+    {
+      "id": "Q010",
+      "priority": "P0",
+      "text": "Muéstrenos cómo atienden actualmente a un paciente desde el primer contacto hasta el seguimiento posterior.",
+      "hint": "Registrar pasos, herramientas, capturas, personas y excepciones.",
+      "sectionId": "02",
+      "section": "Cliente piloto y operación real",
+      "stakeholder": "Clínica piloto / administrador / recepción"
+    },
+    {
+      "id": "Q011",
+      "priority": "P0",
+      "text": "¿Cuántos profesionales, sedes, consultorios, agendas, agentes y usuarios operarán en el piloto?",
+      "hint": "Cifras estimadas actuales y a 12 meses.",
+      "sectionId": "02",
+      "section": "Cliente piloto y operación real",
+      "stakeholder": "Clínica piloto / administrador / recepción"
+    },
+    {
+      "id": "Q012",
+      "priority": "P1",
+      "text": "¿Cuáles son los principales tres cuellos de botella operativos actuales?",
+      "hint": "Cuantificar costos, duplicidades o tiempos si es posible.",
+      "sectionId": "02",
+      "section": "Cliente piloto y operación real",
+      "stakeholder": "Clínica piloto / administrador / recepción"
+    },
+    {
+      "id": "Q013",
+      "priority": "P1",
+      "text": "¿Hay procedimientos o reglas de operación distintas entre especialistas y sedes?",
+      "hint": "Registrar excepciones y configuración por cliente.",
+      "sectionId": "02",
+      "section": "Cliente piloto y operación real",
+      "stakeholder": "Clínica piloto / administrador / recepción"
+    },
+    {
+      "id": "Q014",
+      "priority": "P1",
+      "text": "¿Qué software usan actualmente y cuáles deben seguir utilizando obligatoriamente?",
+      "hint": "Solicitar inventario de proveedores, planes, accesos de pruebas y propietarios.",
+      "sectionId": "02",
+      "section": "Cliente piloto y operación real",
+      "stakeholder": "Clínica piloto / administrador / recepción"
+    },
+    {
+      "id": "Q015",
+      "priority": "P0",
+      "text": "¿Una cuenta representa a un profesional, una clínica, una empresa o un grupo con varias sedes?",
+      "hint": "Definir jerarquía: organización > sede > profesional > usuario.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q016",
+      "priority": "P0",
+      "text": "¿Un médico puede trabajar para varias clínicas y acceder a varias organizaciones con la misma cuenta?",
+      "hint": "Explicar cambio de contexto, permisos y propiedad de datos.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q017",
+      "priority": "P0",
+      "text": "¿Quién es dueño de los datos cuando un profesional abandona la clínica o cambia de organización?",
+      "hint": "Definir conservación, exportación y transferencias autorizadas.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q018",
+      "priority": "P0",
+      "text": "¿Qué puede ver y modificar cada rol: administrador, médico, comercial, recepción y supervisor?",
+      "hint": "Usar matriz CRUD y separar datos comerciales de sensibles.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q019",
+      "priority": "P1",
+      "text": "¿Los pacientes tendrán una cuenta propia o solo recibirán enlaces temporales?",
+      "hint": "Determinar registro, autenticación, portal y acciones disponibles.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q020",
+      "priority": "P1",
+      "text": "¿Se necesita administrador global de RayoMed para gestionar clientes, soporte, facturación SaaS y operaciones?",
+      "hint": "Definir facultades limitadas, acceso soporte auditado y consentimiento.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q021",
+      "priority": "P1",
+      "text": "¿Cómo se dan de alta, suspenden o eliminan organizaciones y usuarios?",
+      "hint": "Definir invitación, aprovisionamiento, recuperación y bajas.",
+      "sectionId": "03",
+      "section": "Actores, roles y organización multi-cliente",
+      "stakeholder": "Dirección / operaciones / TI"
+    },
+    {
+      "id": "Q022",
+      "priority": "P0",
+      "text": "¿Qué diferencia existe para el negocio entre lead, contacto, paciente, cita y episodio de atención?",
+      "hint": "Construir un glosario y reglas de conversión.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q023",
+      "priority": "P0",
+      "text": "¿Cómo detectan que una persona ya está registrada cuando llega por otro número o canal?",
+      "hint": "Definir deduplicación: documento, teléfono, correo e intervención humana.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q024",
+      "priority": "P0",
+      "text": "¿Cuál es el proceso completo desde el primer mensaje hasta convertirse en paciente atendido?",
+      "hint": "Identificar responsables, estados, eventos y datos mínimos.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q025",
+      "priority": "P1",
+      "text": "¿Pueden existir varias oportunidades, procedimientos y cotizaciones para un mismo paciente?",
+      "hint": "Definir relaciones uno-a-muchos y consultas históricas.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q026",
+      "priority": "P1",
+      "text": "¿De dónde llegan los contactos: WhatsApp, redes, web, referidos, llamadas o importaciones?",
+      "hint": "Clasificar origen, consentimiento y trazabilidad.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q027",
+      "priority": "P1",
+      "text": "¿Qué estados del pipeline deben ser globales y cuáles configurables por clínica?",
+      "hint": "Pedir lista real, criterios de entrada/salida y estados terminales.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q028",
+      "priority": "P1",
+      "text": "¿Qué acciones nunca deben ejecutarse automáticamente sobre el paciente sin validación humana?",
+      "hint": "Ejemplos: pasar a tratado, cerrar negocio, revelar información.",
+      "sectionId": "04",
+      "section": "Identidad del paciente, CRM y ciclo comercial",
+      "stakeholder": "Comercial / recepción / profesional"
+    },
+    {
+      "id": "Q029",
+      "priority": "P0",
+      "text": "¿Google Calendar será la única agenda operativa o se permitirá gestionar la disponibilidad directamente en RayoMed?",
+      "hint": "Resolver propiedad del dato y comportamiento con agenda externa.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q030",
+      "priority": "P0",
+      "text": "¿Qué debe ocurrir cuando dos personas intentan reservar el mismo cupo al mismo tiempo?",
+      "hint": "Acordar reserva provisional, bloqueo, conflicto y rechazo.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q031",
+      "priority": "P0",
+      "text": "¿Qué tipos de cita existen y qué duración, preparación, modalidad y recursos requieren?",
+      "hint": "Ejemplos: valoración, control, cirugía, teleconsulta, seguimiento.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q032",
+      "priority": "P0",
+      "text": "¿Quién puede crear, confirmar, cancelar y reprogramar citas, y con qué restricciones temporales?",
+      "hint": "Pedir escenarios pacientes/recepción/chatbot/médico.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q033",
+      "priority": "P0",
+      "text": "¿Qué sucede si Google Calendar está caído o una cita fue editada directamente allí?",
+      "hint": "Definir sincronización, conciliación, reintentos y avisos.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q034",
+      "priority": "P1",
+      "text": "¿La disponibilidad depende de médicos, consultorios, equipos, salas o combinaciones de recursos?",
+      "hint": "Ejemplo: consultorio y médico deben estar libres simultáneamente.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q035",
+      "priority": "P1",
+      "text": "¿Qué ocurre con feriados, bloqueos personales, zonas horarias y varias sedes?",
+      "hint": "Definir calendario base, excepciones, país y huso horario.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q036",
+      "priority": "P1",
+      "text": "¿El check-in refleja un estado clínico, logístico o comercial, y quién puede cambiarlo?",
+      "hint": "Diferenciar llegó, esperando, en consulta, finalizó y no asistió.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q037",
+      "priority": "P1",
+      "text": "¿Cómo se resuelve una modificación de cita que llega duplicada o en desorden desde un webhook?",
+      "hint": "Determinar idempotencia y regla de reconciliación.",
+      "sectionId": "05",
+      "section": "Agenda, disponibilidad, citas y check-in",
+      "stakeholder": "Recepción / profesional / coordinación"
+    },
+    {
+      "id": "Q038",
+      "priority": "P0",
+      "text": "¿La preconsulta es solo un formulario comercial, un cuestionario preoperatorio o parte del expediente clínico?",
+      "hint": "Resolver la clasificación funcional, acceso y obligaciones aplicables.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q039",
+      "priority": "P0",
+      "text": "¿Qué campos son realmente necesarios en el piloto y cuáles cambian según especialidad o procedimiento?",
+      "hint": "Validar nombres, documento, IMC, antecedentes, fotografías, archivos.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q040",
+      "priority": "P0",
+      "text": "¿Quién revisa y valida respuestas sensibles y qué decisiones puede tomar a partir de ellas?",
+      "hint": "Distinguir captura de datos de evaluación clínica.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q041",
+      "priority": "P0",
+      "text": "¿Qué autorización debe dar la persona para tratamiento de datos personales, datos sensibles e imágenes?",
+      "hint": "Validación legal de finalidades, versiones, responsables y evidencia.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q042",
+      "priority": "P1",
+      "text": "¿Puede el paciente guardar un avance, corregir datos o enviar el formulario más de una vez?",
+      "hint": "Definir versión de respuesta, caducidad y edición posterior.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q043",
+      "priority": "P1",
+      "text": "¿Qué tamaño, formato, número de imágenes y política de eliminación se necesita?",
+      "hint": "Concretar límites, almacenamiento privado y retención.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q044",
+      "priority": "P1",
+      "text": "¿Cómo se gestiona el enlace si se comparte, expira, se usa desde otro dispositivo o el paciente solicita revocación?",
+      "hint": "Definir controles de acceso, reemisión y trazabilidad.",
+      "sectionId": "06",
+      "section": "Preconsulta, captación de datos y consentimiento",
+      "stakeholder": "Profesional / legal / recepción"
+    },
+    {
+      "id": "Q045",
+      "priority": "P0",
+      "text": "¿Qué se está cotizando exactamente: procedimiento, paquete, consulta, tratamiento o combinación de servicios?",
+      "hint": "Definir catálogo y unidades comercializables.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q046",
+      "priority": "P0",
+      "text": "¿Quién define, aprueba y actualiza honorarios, salas, insumos, descuentos e impuestos?",
+      "hint": "Definir precios por clínica, sede, profesional, moneda y fecha.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q047",
+      "priority": "P0",
+      "text": "¿El IMC modifica automáticamente un precio o solo aporta información que evalúa el especialista?",
+      "hint": "No suponer automatismos con consecuencias clínicas/económicas.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q048",
+      "priority": "P0",
+      "text": "¿Qué significa que una cotización fue aceptada y qué operación posterior debe disparar?",
+      "hint": "Firma, evidencia, pago, reserva de procedimiento o paso manual.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q049",
+      "priority": "P1",
+      "text": "¿Cuáles son las reglas de vigencia, versiones, reajustes y descuentos autorizados?",
+      "hint": "Definir inmutabilidad de cotización enviada y auditoría.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q050",
+      "priority": "P1",
+      "text": "¿Cómo debe mostrarse el precio al paciente: desglosado, total, rangos, exclusiones y condiciones?",
+      "hint": "Solicitar un ejemplo real anonimizado.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q051",
+      "priority": "P1",
+      "text": "¿Qué ocurre cuando cambian las tarifas después de enviar una propuesta?",
+      "hint": "Definir congelación del precio y nueva revisión.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q052",
+      "priority": "P1",
+      "text": "¿Quién puede enviar cotizaciones por WhatsApp y quién puede visualizar que fueron abiertas?",
+      "hint": "Control de rol, registro de eventos y consentimiento.",
+      "sectionId": "07",
+      "section": "Cotizador, precios, condiciones y aprobaciones",
+      "stakeholder": "Dirección comercial / especialistas / finanzas"
+    },
+    {
+      "id": "Q053",
+      "priority": "P0",
+      "text": "¿Quién es propietario del número WABA, de la cuenta Meta, de las plantillas y del historial de conversación?",
+      "hint": "Definir responsabilidades al iniciar y terminar la relación.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q054",
+      "priority": "P0",
+      "text": "¿EasyChatbot expondrá qué APIs, webhooks, eventos, estados y mecanismos de autenticación?",
+      "hint": "Solicitar contratos reales y entorno de pruebas.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q055",
+      "priority": "P0",
+      "text": "¿Quién confirma una cita o una cotización: el chatbot, RayoMed o una persona?",
+      "hint": "Determinar autorización antes de ejecutar acciones.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q056",
+      "priority": "P0",
+      "text": "¿Qué sucede si el mensaje se envía dos veces, si el proveedor no responde o si la ventana de mensajería está cerrada?",
+      "hint": "Definir deduplicación, políticas de plantillas, reintentos y fallbacks.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q057",
+      "priority": "P1",
+      "text": "¿Qué mensajes requiere el piloto: confirmación, recordatorio, encuesta, recontacto y campañas?",
+      "hint": "Separar transaccionales de promocionales, opt-in y reglas de envío.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q058",
+      "priority": "P1",
+      "text": "¿Qué contexto del paciente puede recibir EasyChatbot y qué datos deben permanecer exclusivamente en RayoMed?",
+      "hint": "Definir campos permitidos y protección de datos.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q059",
+      "priority": "P1",
+      "text": "¿Se requiere transferencia del bot a agente humano y regreso al bot?",
+      "hint": "Definir estados, asignación y registro de intervenciones.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q060",
+      "priority": "P1",
+      "text": "¿Cuántos recontactos se permiten y en qué horarios?",
+      "hint": "Definir exclusión, baja de comunicaciones y frecuencia máxima.",
+      "sectionId": "08",
+      "section": "WhatsApp, EasyChatbot, plantillas y seguimiento",
+      "stakeholder": "Comercial / aliado / TI"
+    },
+    {
+      "id": "Q061",
+      "priority": "P0",
+      "text": "La V9 excluye historia clínica propia; ¿confirmamos que así seguirá durante el piloto y en la primera versión comercial?",
+      "hint": "Registrar alcance actual y visión posterior por separado.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q062",
+      "priority": "P0",
+      "text": "¿RayoMed almacenará únicamente preconsulta y datos comerciales o registrará valoración, diagnóstico, evolución, fórmulas o documentos clínicos?",
+      "hint": "Enumerar entidades clínicas que sí/no existirán.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q063",
+      "priority": "P0",
+      "text": "Si el médico utiliza Dentalink u otro software, ¿RayoMed no se integra, muestra un enlace o intercambia datos con autorización?",
+      "hint": "La V9 establece no acceso ni sincronización; cualquier cambio requiere nuevo alcance.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q064",
+      "priority": "P0",
+      "text": "¿Quién valida clínicamente diagnósticos, antecedentes, alergias y sugerencias de la IA?",
+      "hint": "Definir responsabilidad profesional y evidencia de revisión.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q065",
+      "priority": "P1",
+      "text": "Si se incorpora historia clínica en el futuro, ¿qué especialidades y formatos tendrán prioridad?",
+      "hint": "Medicina general, odontología, estética, fisioterapia, psicología, etc.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q066",
+      "priority": "P1",
+      "text": "¿Se necesitan adjuntos, consentimientos específicos, firmas, órdenes o plantillas por especialidad?",
+      "hint": "Distinguir requisitos de fase futura de piloto.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q067",
+      "priority": "P1",
+      "text": "¿Quién puede corregir un registro clínico y cómo conservar la historia de modificaciones?",
+      "hint": "Definir políticas de integridad y trazabilidad; validar legalmente.",
+      "sectionId": "09",
+      "section": "Historia clínica e integración con sistemas clínicos",
+      "stakeholder": "Dirección médica / legal / TI"
+    },
+    {
+      "id": "Q068",
+      "priority": "P0",
+      "text": "¿Qué tareas específicas de IA deben funcionar en el piloto, y cuál es la entrada y salida esperada de cada una?",
+      "hint": "Ejemplos de V9: clasificar notas, sugerir CUPS/CIE-10; no asumir diagnóstico autónomo.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q069",
+      "priority": "P0",
+      "text": "¿Qué decisiones nunca puede tomar la IA sin confirmación explícita del médico?",
+      "hint": "Ejemplos: códigos finales, conducta clínica, alta, cambios al expediente.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q070",
+      "priority": "P0",
+      "text": "¿Qué nivel de precisión se requiere y cómo se probará sobre casos anonimizados revisados por especialistas?",
+      "hint": "Definir métricas, muestras, tasa tolerable de errores y rechazo.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q071",
+      "priority": "P0",
+      "text": "¿Qué datos personales o de salud pueden enviarse a proveedores externos de modelos?",
+      "hint": "Precisar minimización, retención, contratos, región y autorización.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q072",
+      "priority": "P1",
+      "text": "¿Quién corrige una sugerencia errónea y dónde se registra lo que propuso la IA frente a lo finalmente aprobado?",
+      "hint": "Log de propuestas/versiones y responsable humano.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q073",
+      "priority": "P1",
+      "text": "¿Cuándo se activa IA y cuándo basta una regla normal?",
+      "hint": "Diseñar catálogo de automatizaciones deterministas vs LLM.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q074",
+      "priority": "P1",
+      "text": "¿Existe presupuesto máximo por cliente, usuario o transacción para el uso de IA?",
+      "hint": "Solicitar límites de consumo, alertas y fallbacks.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q075",
+      "priority": "P1",
+      "text": "¿Se requiere un asistente conversacional dentro de la aplicación además de EasyChatbot en WhatsApp?",
+      "hint": "Aclarar canales, permisos, herramientas y límites.",
+      "sectionId": "10",
+      "section": "Funciones de IA, riesgos y revisión humana",
+      "stakeholder": "Producto / dirección médica / TI"
+    },
+    {
+      "id": "Q076",
+      "priority": "P0",
+      "text": "¿Qué tipo de prestador y qué operaciones exactas facturará la clínica piloto?",
+      "hint": "No inferir obligaciones desde “particular” o “convenio” por sí solos.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q077",
+      "priority": "P0",
+      "text": "¿Qué normativa, anexos, catálogos y reglas tributarias vigentes aplican a esos casos?",
+      "hint": "Validación escrita por responsable tributario/salud antes de construir reglas.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q078",
+      "priority": "P0",
+      "text": "¿El piloto debe emitir factura electrónica y reportar RIPS, o basta registrar movimientos sin emitir documentos fiscales?",
+      "hint": "Decisión explícita de alcance y proveedor.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q079",
+      "priority": "P0",
+      "text": "¿Dataico será el proveedor contratado y ofrece todos los endpoints y ambientes necesarios?",
+      "hint": "Pedir documentación, contrato, restricciones y pruebas.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q080",
+      "priority": "P1",
+      "text": "¿Cómo se resuelven anulaciones, notas crédito, devoluciones, anticipos y pagos parciales?",
+      "hint": "Solicitar transacciones reales y controles contables.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q081",
+      "priority": "P1",
+      "text": "¿Quién responde cuando un documento es rechazado por el proveedor o por la entidad receptora?",
+      "hint": "Definir monitoreo, corrección, reenvío e histórico.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q082",
+      "priority": "P1",
+      "text": "¿Hay clínicas que no usarán este módulo porque ya tienen software de facturación?",
+      "hint": "Definir módulo desactivable y grado de interoperabilidad.",
+      "sectionId": "11",
+      "section": "Facturación, recibos, RIPS y obligaciones",
+      "stakeholder": "Facturación / contador / especialista normativo"
+    },
+    {
+      "id": "Q083",
+      "priority": "P0",
+      "text": "¿Por qué se eligió una instancia de Vtiger por cliente y qué condiciones harían replantear esa decisión?",
+      "hint": "Restricciones comerciales, licencias, personalizaciones y costo operativo.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q084",
+      "priority": "P0",
+      "text": "¿Cuál sistema es fuente de verdad para cada entidad: usuario, organización, lead, paciente, cita, cotización, conversación y documento?",
+      "hint": "Construir matriz de ownership; no dejar dos fuentes autoritativas.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q085",
+      "priority": "P0",
+      "text": "¿Qué sucede cuando una operación afecta a Vtiger, Google y WhatsApp, pero uno de los tres falla?",
+      "hint": "Definir consistencia eventual, reintento, compensación y estado visible.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q086",
+      "priority": "P0",
+      "text": "¿Qué eventos/webhooks se consumirán, con qué identificadores se resuelven tenants y cómo se evitan eventos duplicados?",
+      "hint": "Contrato, autenticación, correlación, idempotencia y mensajes fuera de orden.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q087",
+      "priority": "P1",
+      "text": "¿Qué operaciones requerirán respuesta inmediata y cuáles pueden terminar en segundo plano?",
+      "hint": "Definir tiempos de espera y cola de trabajos.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q088",
+      "priority": "P1",
+      "text": "¿Cómo se crea automáticamente un cliente nuevo con su instancia, configuración, permisos, catálogos y salud de integración?",
+      "hint": "Aprovisionamiento y verificación reproducibles.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q089",
+      "priority": "P1",
+      "text": "¿Cómo se hará el versionado y despliegue de personalizaciones en decenas o cientos de instancias Vtiger?",
+      "hint": "Migraciones, compatibilidad, rollback y monitoreo.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q090",
+      "priority": "P1",
+      "text": "¿Qué datos persistirá el Core además de los que almacene Vtiger?",
+      "hint": "Autorizaciones, evidencia, eventos, auditoría, configuración e integraciones.",
+      "sectionId": "12",
+      "section": "Arquitectura de integración y propiedad de datos",
+      "stakeholder": "Arquitecto / líderes de desarrollo / proveedores"
+    },
+    {
+      "id": "Q091",
+      "priority": "P0",
+      "text": "¿Quién es responsable del tratamiento de los datos y quién actúa como encargado para cada integración?",
+      "hint": "Validación contractual y flujos transfronterizos cuando aplique.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q092",
+      "priority": "P0",
+      "text": "¿Qué campos y documentos se consideran sensibles, quién puede verlos y bajo qué contexto?",
+      "hint": "Matriz de autorización por tenant, rol, sede y paciente.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q093",
+      "priority": "P0",
+      "text": "¿Qué debe quedar auditado: acceso, vista de fotos, descarga, exportación, edición, IA y consulta de registros?",
+      "hint": "Definir eventos de auditoría, retención y acceso a logs.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q094",
+      "priority": "P0",
+      "text": "¿Qué debe ocurrir ante una solicitud de revocación, rectificación, eliminación o acceso a datos?",
+      "hint": "Flujo con responsable y excepciones legales.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q095",
+      "priority": "P1",
+      "text": "¿Cómo se gestionarán cifrado, secretos, credenciales API, URLs firmadas y rotación de llaves?",
+      "hint": "Acordar medidas y responsable de operación.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q096",
+      "priority": "P1",
+      "text": "¿Qué política de retención aplica a leads, fotos, cotizaciones, conversaciones, consentimientos y backups?",
+      "hint": "Separar propósito, obligación y período por categoría.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q097",
+      "priority": "P1",
+      "text": "¿Qué plan de respuesta ante incidentes, recuperación y notificación existe?",
+      "hint": "Identificar RTO/RPO y responsables.",
+      "sectionId": "13",
+      "section": "Privacidad, seguridad, acceso y auditoría",
+      "stakeholder": "Seguridad / legal / arquitectura"
+    },
+    {
+      "id": "Q098",
+      "priority": "P0",
+      "text": "¿Cuáles son las tres tareas diarias que recepción y médicos deben completar en menos pasos?",
+      "hint": "Hacer demostración de los flujos reales.",
+      "sectionId": "14",
+      "section": "Experiencia de usuario, canales y accesibilidad",
+      "stakeholder": "Usuarios finales / producto / UX"
+    },
+    {
+      "id": "Q099",
+      "priority": "P0",
+      "text": "¿La primera entrega será web responsive, PWA, app móvil o combinación?",
+      "hint": "Confirmar dispositivos, navegador y necesidad de trabajo offline.",
+      "sectionId": "14",
+      "section": "Experiencia de usuario, canales y accesibilidad",
+      "stakeholder": "Usuarios finales / producto / UX"
+    },
+    {
+      "id": "Q100",
+      "priority": "P1",
+      "text": "¿Se requiere un panel distinto para administrador, médico, recepción y paciente?",
+      "hint": "Identificar navegación, densidad de información y permisos.",
+      "sectionId": "14",
+      "section": "Experiencia de usuario, canales y accesibilidad",
+      "stakeholder": "Usuarios finales / producto / UX"
+    },
+    {
+      "id": "Q101",
+      "priority": "P1",
+      "text": "¿Qué datos deben aparecer en la vista del día sin exponer información clínica a usuarios no autorizados?",
+      "hint": "Dibujar una tarjeta de cita y pantallas.",
+      "sectionId": "14",
+      "section": "Experiencia de usuario, canales y accesibilidad",
+      "stakeholder": "Usuarios finales / producto / UX"
+    },
+    {
+      "id": "Q102",
+      "priority": "P1",
+      "text": "¿Qué idiomas, formatos de fecha, accesibilidad y zona horaria deben soportarse desde el comienzo?",
+      "hint": "Especificar necesidades reales del piloto.",
+      "sectionId": "14",
+      "section": "Experiencia de usuario, canales y accesibilidad",
+      "stakeholder": "Usuarios finales / producto / UX"
+    },
+    {
+      "id": "Q103",
+      "priority": "P1",
+      "text": "¿Con qué criterios se aprobará el diseño: prototipo clickable, tareas de usuario, tiempos, accesibilidad?",
+      "hint": "Definir validación observable.",
+      "sectionId": "14",
+      "section": "Experiencia de usuario, canales y accesibilidad",
+      "stakeholder": "Usuarios finales / producto / UX"
+    },
+    {
+      "id": "Q104",
+      "priority": "P0",
+      "text": "¿Cuántas clínicas, usuarios concurrentes, citas y mensajes por día debemos soportar en piloto y primer año?",
+      "hint": "Estimaciones para dimensionamiento y costos.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q105",
+      "priority": "P0",
+      "text": "¿Qué disponibilidad se espera y qué pasa operacionalmente si RayoMed no está disponible durante atención?",
+      "hint": "Definir estrategia de contingencia.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q106",
+      "priority": "P0",
+      "text": "¿Qué presupuesto hay para infraestructura, proveedores, tokens de IA, mensajes y mantenimiento mensual?",
+      "hint": "Establecer techo de costos y costos por tenant.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q107",
+      "priority": "P1",
+      "text": "¿Qué entornos son necesarios: desarrollo, QA, staging y producción?",
+      "hint": "Definir datos sintéticos, aislamiento y accesos.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q108",
+      "priority": "P1",
+      "text": "¿Qué observabilidad requieren: métricas, logs, trazas, alertas y panel de salud de proveedores?",
+      "hint": "Identificar responsables de incidentes.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q109",
+      "priority": "P1",
+      "text": "¿Cómo se verifican backups y restauraciones completas por cliente sin afectar otros clientes?",
+      "hint": "Pruebas periódicas, RPO y RTO.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q110",
+      "priority": "P1",
+      "text": "¿El producto debe seguir operando si EasyChatbot, Meta, Vtiger, Dataico o Google tienen una interrupción?",
+      "hint": "Definir degradación aceptable por flujo.",
+      "sectionId": "15",
+      "section": "Operación, escala, presupuesto y continuidad",
+      "stakeholder": "Dirección / operaciones / DevOps"
+    },
+    {
+      "id": "Q111",
+      "priority": "P0",
+      "text": "¿Cuál es la fecha objetivo y qué compromisos reales existen con el cliente piloto?",
+      "hint": "Diferenciar fecha deseada, contractual y ventana de validación.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    },
+    {
+      "id": "Q112",
+      "priority": "P0",
+      "text": "¿Quién decide cambios de alcance y quién firma la aceptación de cada funcionalidad?",
+      "hint": "Nombrar Product Owner y responsable clínico cuando corresponda.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    },
+    {
+      "id": "Q113",
+      "priority": "P0",
+      "text": "¿Qué recorrido extremo a extremo debe demostrar el piloto para considerarse aprobado?",
+      "hint": "Definir demo con datos anonimizados y escenarios de fallo.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    },
+    {
+      "id": "Q114",
+      "priority": "P0",
+      "text": "¿Cuáles son los criterios mínimos de calidad: pruebas, seguridad, rendimiento, documentación y monitoreo?",
+      "hint": "Establecer Definition of Done.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    },
+    {
+      "id": "Q115",
+      "priority": "P1",
+      "text": "¿Qué acceso al código, entornos, credenciales sandbox y documentación aportarán los aliados?",
+      "hint": "No aceptar una integración sin medios para verificarla.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    },
+    {
+      "id": "Q116",
+      "priority": "P1",
+      "text": "¿Qué se hace si una decisión bloqueante no se resuelve a tiempo?",
+      "hint": "Estado pendiente y mecanismo de aplazamiento explícito.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    },
+    {
+      "id": "Q117",
+      "priority": "P1",
+      "text": "¿Cómo se registrarán cambios de requisitos después de aprobar el SDD?",
+      "hint": "Versionado, impacto de costo, fecha y aprobación.",
+      "sectionId": "16",
+      "section": "Entrega, criterios de aceptación y gobierno de cambios",
+      "stakeholder": "Patrocinador / PO / equipo técnico"
+    }
+  ],
+  "executive": [
+    {
+      "id": "E01",
+      "priority": "P1",
+      "text": "¿Qué problema principal queremos resolver al médico o a la clínica?",
+      "hint": "¿Cómo lo resuelven hoy y cuánto tiempo/dinero les cuesta?",
+      "sectionId": "E1",
+      "section": "Qué producto es y a quién se dirige",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E02",
+      "priority": "P0",
+      "text": "¿Qué es RayoMed exactamente: CRM comercial, sistema médico integral o solución comercial que después incorporará módulos clínicos?",
+      "hint": "¿Cuál es la visión a dos años?",
+      "sectionId": "E1",
+      "section": "Qué producto es y a quién se dirige",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E03",
+      "priority": "P0",
+      "text": "¿Para qué tipo de cliente sale el piloto?",
+      "hint": "¿Clínicas de estética, odontólogos, medicina general, especialistas independientes u otro? Nombrar el primer cliente real.",
+      "sectionId": "E1",
+      "section": "Qué producto es y a quién se dirige",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E04",
+      "priority": "P0",
+      "text": "¿Qué es imprescindible en la primera versión?",
+      "hint": "Elegir un máximo de cinco capacidades; distinguirlas de lo deseable y de lo futuro.",
+      "sectionId": "E1",
+      "section": "Qué producto es y a quién se dirige",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E05",
+      "priority": "P0",
+      "text": "¿Qué NO vamos a desarrollar en el piloto?",
+      "hint": "Confirmar expresamente si incluye o excluye historia clínica propia, teleconsulta, pagos, facturación, campañas y gestión clínica avanzada.",
+      "sectionId": "E1",
+      "section": "Qué producto es y a quién se dirige",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E06",
+      "priority": "P1",
+      "text": "Cuénteme un caso real desde el primer contacto hasta que el paciente sale de la clínica.",
+      "hint": "¿Quién interviene, en qué aplicación y qué información comparte?",
+      "sectionId": "E2",
+      "section": "Operación real y usuarios",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E07",
+      "priority": "P1",
+      "text": "¿Quién utilizará RayoMed cada día?",
+      "hint": "¿Qué hace recepción, médico, comercial, administrador y paciente? ¿Quién puede ver antecedentes y fotografías?",
+      "sectionId": "E2",
+      "section": "Operación real y usuarios",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E08",
+      "priority": "P1",
+      "text": "¿Cómo saben hoy que una persona ya es paciente?",
+      "hint": "¿Qué pasa si escribe desde dos números o asiste a dos clínicas?",
+      "sectionId": "E2",
+      "section": "Operación real y usuarios",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E09",
+      "priority": "P1",
+      "text": "¿Cómo se manejan las citas?",
+      "hint": "¿Quién reserva, confirma, cancela o reprograma? ¿Qué pasa si dos personas piden el mismo horario?",
+      "sectionId": "E2",
+      "section": "Operación real y usuarios",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E10",
+      "priority": "P1",
+      "text": "¿Cuál es el mayor problema actual de presupuestos y seguimiento?",
+      "hint": "¿Qué pasos debe automatizar RayoMed y cuáles tienen que ser aprobados por una persona?",
+      "sectionId": "E2",
+      "section": "Operación real y usuarios",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E11",
+      "priority": "P0",
+      "text": "La V9 pone a Google Calendar como fuente única de agenda. ¿Es una decisión obligatoria o una propuesta que podemos revisar?",
+      "hint": "¿Se usan sedes, equipos o consultorios además de profesionales?",
+      "sectionId": "E3",
+      "section": "Dependencias y arquitectura",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E12",
+      "priority": "P0",
+      "text": "La V9 plantea una instancia Vtiger por cliente. ¿Hay una razón empresarial/contractual para imponerlo?",
+      "hint": "¿Quién asumirá mantenimiento, hosting y actualizaciones de cada instancia?",
+      "sectionId": "E3",
+      "section": "Dependencias y arquitectura",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E13",
+      "priority": "P1",
+      "text": "¿Qué sistemas actuales se conservarán obligatoriamente?",
+      "hint": "¿Qué sistemas pueden reemplazarse? Pedir APIs y responsables de cada proveedor.",
+      "sectionId": "E3",
+      "section": "Dependencias y arquitectura",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E14",
+      "priority": "P1",
+      "text": "¿De quién serán el número WhatsApp, las conversaciones, los pacientes y los datos al terminar el contrato?",
+      "hint": "¿Qué puede procesar EasyChatbot?",
+      "sectionId": "E3",
+      "section": "Dependencias y arquitectura",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E15",
+      "priority": "P0",
+      "text": "El documento V9 excluye historia clínica; la visión del producto la menciona. ¿Qué decisión aprobamos?",
+      "hint": "¿Dónde quedan antecedentes, diagnósticos, notas y documentos?",
+      "sectionId": "E4",
+      "section": "Historia clínica, IA y cumplimiento",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E16",
+      "priority": "P0",
+      "text": "¿Qué quiere que haga la IA en una consulta real?",
+      "hint": "Solicitar tres ejemplos exactos de entrada, respuesta esperada y aprobación humana; diferenciar automatización de IA.",
+      "sectionId": "E4",
+      "section": "Historia clínica, IA y cumplimiento",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E17",
+      "priority": "P1",
+      "text": "¿Qué datos personales y sensibles procesará RayoMed, para qué finalidad y quién autoriza su uso?",
+      "hint": "¿Quién validará con criterio legal esos tratamientos y la retención de fotografías?",
+      "sectionId": "E4",
+      "section": "Historia clínica, IA y cumplimiento",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E18",
+      "priority": "P0",
+      "text": "¿La clínica piloto requiere facturación electrónica y RIPS?",
+      "hint": "¿Quién validará la normativa vigente y con qué proveedor se integrará? No asumir que un paciente particular está exento por definición.",
+      "sectionId": "E4",
+      "section": "Historia clínica, IA y cumplimiento",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E19",
+      "priority": "P0",
+      "text": "¿Cuándo se considera exitoso el piloto?",
+      "hint": "Definir tres a cinco indicadores medibles y una demostración end-to-end que acepte el cliente.",
+      "sectionId": "E5",
+      "section": "Éxito y decisiones de proyecto",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    },
+    {
+      "id": "E20",
+      "priority": "P0",
+      "text": "¿Cuál es el presupuesto, la fecha objetivo y quién puede aprobar cambios de alcance?",
+      "hint": "¿Quién valida funcionalmente cada módulo y decide cuando hay dudas?",
+      "sectionId": "E5",
+      "section": "Éxito y decisiones de proyecto",
+      "stakeholder": "Dirección / Producto / Cliente piloto"
+    }
+  ]
+}
