@@ -11,3 +11,23 @@ test('rechaza formatos desconocidos de importación',()=>assert.throws(()=>norma
 test('rechaza estados inventados y registros ajenos',()=>{const x=createState();x.responses.Q001={status:'No permitido',answer:'hola'};x.responses.INTRUSO={answer:'No'};const clean=normalizeImport(x,['Q001']);assert.equal(clean.responses.Q001.status,'Pendiente');assert.equal(clean.responses.INTRUSO,undefined)})
 test('el markdown exporta respuestas y asuntos no definidos',()=>{const x=createState();x.responses.E01={answer:'Centralizar el recorrido del paciente',status:'Confirmado'};const md=markdownReport(questions,x);assert.ok(md.includes('Centralizar el recorrido del paciente'));assert.ok(md.includes('Preguntas críticas P0 pendientes'));assert.ok(md.includes('No inventar respuestas'));assert.ok(md.includes('## Registro de decisiones'))})
 test('se conservan 12 decisiones arquitectónicas y 7 escenarios',()=>{assert.equal(DECISIONS.length,12);assert.equal(SCENARIOS.length,7)})
+
+test('todas las 137 preguntas incluyen aclaración, ejemplo y resultado esperado, sin perder el texto original',()=>{
+  const all=[...questions.executive,...questions.detailed]
+  assert.equal(all.length,137)
+  for(const q of all){
+    for(const key of ['clarification','example','expected']){
+      assert.equal(typeof q[key],'string',`${q.id}: ${key}`)
+      assert.ok(q[key].trim().length>=60,`${q.id}: guía ${key} incompleta`)
+    }
+    assert.ok(q.text && q.hint && q.stakeholder)
+  }
+})
+test('el Markdown incluye las aclaraciones de la entrevista y mantiene las respuestas',()=>{
+  const state=createState();state.responses.Q029={answer:'Google es el maestro de la agenda.',status:'Confirmado'}
+  const report=markdownReport(questions,state)
+  assert.ok(report.includes(questions.detailed[28].clarification))
+  assert.ok(report.includes('Ejemplo ilustrativo (no es requisito aprobado)'))
+  assert.ok(report.includes(questions.executive[0].expected))
+  assert.ok(report.includes('Google es el maestro de la agenda.'))
+})
