@@ -12,6 +12,8 @@ La aplicación reproduce los dos cuestionarios elaborados a partir de «Alcance 
 
 - Diseño responsive para computadores y teléfonos, con navegación por sección y pregunta.
 - Buscador y filtros de prioridad y estado.
+- **137 preguntas ampliadas:** cada pregunta muestra qué significa en lenguaje claro, un ejemplo meramente ilustrativo y qué debe quedar definido en la respuesta. Sondeos opcionales desplegables para profundizar.
+- El documento Markdown exportado incluye también el contexto explicativo, para que las decisiones sean interpretables durante el análisis PRD/SDD.
 - Campos: respuesta literal, estado, fase, responsable, evidencia, riesgo, aceptación y notas.
 - Panel de avances, recuento de decisiones pendientes y preguntas críticas.
 - Guardado automático **en el navegador** mediante `localStorage`.
@@ -118,4 +120,4 @@ Cuestionarios incluidos bajo `docs/` creados a partir del documento RayoMed V9, 
 
 ---
 
-Versión 1.0 · Octubre de 2026.
+Versión 1.2 · Octubre de 2026.
